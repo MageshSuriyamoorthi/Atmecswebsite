@@ -1,0 +1,250 @@
+# Created at 2019-09-25T17:55:16.536
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(Unknown Source)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:390)
+	at java.lang.Thread.run(Unknown Source)
+
+
+# Created at 2019-09-25T17:55:17.829
+Unexpected IOException with stream: [
+
+# Created at 2019-09-25T17:55:17.830
+Unexpected IOException with stream: 1
+
+# Created at 2019-09-25T17:55:17.831
+Unexpected IOException with stream: 5
+
+# Created at 2019-09-25T17:55:17.832
+Unexpected IOException with stream: 6
+
+# Created at 2019-09-25T17:55:17.833
+Unexpected IOException with stream: 9
+
+# Created at 2019-09-25T17:55:17.834
+Unexpected IOException with stream: 4
+
+# Created at 2019-09-25T17:55:17.835
+Unexpected IOException with stream: 1
+
+# Created at 2019-09-25T17:55:17.837
+Unexpected IOException with stream: 4
+
+# Created at 2019-09-25T17:55:17.838
+Unexpected IOException with stream: 3
+
+# Created at 2019-09-25T17:55:17.839
+Unexpected IOException with stream: 1
+
+# Created at 2019-09-25T17:55:17.840
+Unexpected IOException with stream: 7
+
+# Created at 2019-09-25T17:55:17.841
+Unexpected IOException with stream: .
+
+# Created at 2019-09-25T17:55:17.842
+Unexpected IOException with stream: 8
+
+# Created at 2019-09-25T17:55:17.843
+Unexpected IOException with stream: 2
+
+# Created at 2019-09-25T17:55:17.844
+Unexpected IOException with stream: 8
+
+# Created at 2019-09-25T17:55:17.845
+Unexpected IOException with stream: ]
+
+# Created at 2019-09-25T17:55:17.846
+Unexpected IOException with stream: [
+
+# Created at 2019-09-25T17:55:17.847
+Unexpected IOException with stream: W
+
+# Created at 2019-09-25T17:55:17.849
+Unexpected IOException with stream: A
+
+# Created at 2019-09-25T17:55:17.850
+Unexpected IOException with stream: R
+
+# Created at 2019-09-25T17:55:17.850
+Unexpected IOException with stream: N
+
+# Created at 2019-09-25T17:55:17.852
+Unexpected IOException with stream: I
+
+# Created at 2019-09-25T17:55:17.854
+Unexpected IOException with stream: N
+
+# Created at 2019-09-25T17:55:17.855
+Unexpected IOException with stream: G
+
+# Created at 2019-09-25T17:55:17.856
+Unexpected IOException with stream: ]
+
+# Created at 2019-09-25T17:55:17.856
+Unexpected IOException with stream: :
+
+# Created at 2019-09-25T17:55:17.858
+Unexpected IOException with stream:  
+
+# Created at 2019-09-25T17:55:17.859
+Unexpected IOException with stream: T
+
+# Created at 2019-09-25T17:55:17.860
+Unexpected IOException with stream: i
+
+# Created at 2019-09-25T17:55:17.861
+Unexpected IOException with stream: m
+
+# Created at 2019-09-25T17:55:17.862
+Unexpected IOException with stream: e
+
+# Created at 2019-09-25T17:55:17.863
+Unexpected IOException with stream: d
+
+# Created at 2019-09-25T17:55:17.864
+Unexpected IOException with stream:  
+
+# Created at 2019-09-25T17:55:17.865
+Unexpected IOException with stream: o
+
+# Created at 2019-09-25T17:55:17.866
+Unexpected IOException with stream: u
+
+# Created at 2019-09-25T17:55:17.867
+Unexpected IOException with stream: t
+
+# Created at 2019-09-25T17:55:17.869
+Unexpected IOException with stream:  
+
+# Created at 2019-09-25T17:55:17.870
+Unexpected IOException with stream: c
+
+# Created at 2019-09-25T17:55:17.870
+Unexpected IOException with stream: o
+
+# Created at 2019-09-25T17:55:17.872
+Unexpected IOException with stream: n
+
+# Created at 2019-09-25T17:55:17.873
+Unexpected IOException with stream: n
+
+# Created at 2019-09-25T17:55:17.874
+Unexpected IOException with stream: e
+
+# Created at 2019-09-25T17:55:17.875
+Unexpected IOException with stream: c
+
+# Created at 2019-09-25T17:55:17.875
+Unexpected IOException with stream: t
+
+# Created at 2019-09-25T17:55:17.876
+Unexpected IOException with stream: i
+
+# Created at 2019-09-25T17:55:17.877
+Unexpected IOException with stream: n
+
+# Created at 2019-09-25T17:55:17.878
+Unexpected IOException with stream: g
+
+# Created at 2019-09-25T17:55:17.879
+Unexpected IOException with stream:  
+
+# Created at 2019-09-25T17:55:17.880
+Unexpected IOException with stream: t
+
+# Created at 2019-09-25T17:55:17.880
+Unexpected IOException with stream: o
+
+# Created at 2019-09-25T17:55:17.881
+Unexpected IOException with stream:  
+
+# Created at 2019-09-25T17:55:17.882
+Unexpected IOException with stream: C
+
+# Created at 2019-09-25T17:55:17.883
+Unexpected IOException with stream: h
+
+# Created at 2019-09-25T17:55:17.885
+Unexpected IOException with stream: r
+
+# Created at 2019-09-25T17:55:17.886
+Unexpected IOException with stream: o
+
+# Created at 2019-09-25T17:55:17.886
+Unexpected IOException with stream: m
+
+# Created at 2019-09-25T17:55:17.887
+Unexpected IOException with stream: e
+
+# Created at 2019-09-25T17:55:17.888
+Unexpected IOException with stream: ,
+
+# Created at 2019-09-25T17:55:17.888
+Unexpected IOException with stream:  
+
+# Created at 2019-09-25T17:55:17.889
+Unexpected IOException with stream: r
+
+# Created at 2019-09-25T17:55:17.890
+Unexpected IOException with stream: e
+
+# Created at 2019-09-25T17:55:17.890
+Unexpected IOException with stream: t
+
+# Created at 2019-09-25T17:55:17.891
+Unexpected IOException with stream: r
+
+# Created at 2019-09-25T17:55:17.892
+Unexpected IOException with stream: y
+
+# Created at 2019-09-25T17:55:17.892
+Unexpected IOException with stream: i
+
+# Created at 2019-09-25T17:55:17.893
+Unexpected IOException with stream: n
+
+# Created at 2019-09-25T17:55:17.894
+Unexpected IOException with stream: g
+
+# Created at 2019-09-25T17:55:17.894
+Unexpected IOException with stream: .
+
+# Created at 2019-09-25T17:55:17.895
+Unexpected IOException with stream: .
+
+# Created at 2019-09-25T17:55:17.896
+Unexpected IOException with stream: .
+
+# Created at 2019-09-25T17:55:17.896
+Unexpected IOException with stream: 
+
+# Created at 2019-09-25T17:55:17.897
+Unexpected IOException with stream: 
+
+
+# Created at 2019-09-25T17:55:26.012
+Unexpected IOException: 8,1,com.openmrs.testscript.OpenmrsTS,method(com.openmrs.testscript.OpenmrsTS),null,chrome not reachable\000A  (Session info: chrome=76.0.3809.132)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'ATMECSINLT-084'\002C ip: '55.55.52.136'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_221'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 76.0.3809.132\002C chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4...\002C userDataDir: C:\005CUsers\005CMAGESH~1.SUR\005CAppDa...}\002C goog:chromeOptions: {debuggerAddress: localhost:57954}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify}\000ASession ID: 3912a4d853b2553f1d0b754b9393171a\000A*** Element info: {Using=xpath\002C value=//input[@id='username']},null,chrome not reachable\000A  (Session info: chrome=76.0.3809.132)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'ATMECSINLT-084'\002C ip: '55.55.52.136'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_221'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 76.0.3809.132\002C chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4...\002C userDataDir: C:\005CUsers\005CMAGESH~1.SUR\005CAppDa...}\002C goog:chromeOptions: {debuggerAddress: localhost:57954}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify}\000ASession ID: 3912a4d853b2553f1d0b754b9393171a\000A*** Element info: {Using=xpath\002C value=//input[@id='username']},OpenmrsTS.method:34 \00BB WebDriver chrome not reachable\000A  (Session info: chrome=7...,org.openqa.selenium.WebDriverException: \000Achrome not reachable\000A  (Session info: chrome=76.0.3809.132)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'ATMECSINLT-084'\002C ip: '55.55.52.136'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_221'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 76.0.3809.132\002C chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4...\002C userDataDir: C:\005CUsers\005CMAGESH~1.SUR\005CAppDa...}\002C goog:chromeOptions: {debuggerAddress: localhost:57954}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify}\000ASession ID: 3912a4d853b2553f1d0b754b9393171a\000A*** Element info: {Using=xpath\002C value=//input[@id='username']}\000A\0009at com.openmrs.testscript.OpenmrsTS.method(OpenmrsTS.java:34)\000A
+
+
+# Created at 2019-09-25T17:55:26.017
+Unexpected IOException: 5,1,com.openmrs.testscript.OpenmrsTS,openmrs(com.openmrs.testscript.OpenmrsTS),com.openmrs.testscript.OpenmrsTS,null,null
+
+
+# Created at 2019-09-25T17:55:26.020
+Unexpected IOException: 9,1,com.openmrs.testscript.OpenmrsTS,openmrs(com.openmrs.testscript.OpenmrsTS),null,chrome not reachable\000A  (Session info: chrome=76.0.3809.132)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'ATMECSINLT-084'\002C ip: '55.55.52.136'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_221'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 76.0.3809.132\002C chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4...\002C userDataDir: C:\005CUsers\005CMAGESH~1.SUR\005CAppDa...}\002C goog:chromeOptions: {debuggerAddress: localhost:57954}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify}\000ASession ID: 3912a4d853b2553f1d0b754b9393171a\000A*** Element info: {Using=xpath\002C value=//input[@id='username']},null
+
+
+# Created at 2019-09-25T17:55:26.022
+Unexpected IOException: 9,1,com.openmrs.testscript.OpenmrsTS,reports(com.openmrs.testscript.OpenmrsTS),null,null,null
+
+
+# Created at 2019-09-25T17:55:26.029
+Unexpected IOException: 9,1,com.openmrs.testscript.OpenmrsTS,closeSetup(com.openmrs.testscript.OpenmrsTS),null,null,null
+
+
+# Created at 2019-09-25T17:55:26.514
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+

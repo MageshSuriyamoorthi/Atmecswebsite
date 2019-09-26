@@ -1,0 +1,1694 @@
+2019-09-26 16:10:45,746  INFO [main] log4j:26 - Element verified
+2019-09-26 16:10:46,080  INFO [main] log4j:26 - Element verified
+2019-09-26 16:10:46,377  INFO [main] log4j:26 - Element verified
+2019-09-26 16:10:46,674  INFO [main] log4j:26 - Element verified
+2019-09-26 16:21:03,827  INFO [main] log4j:26 - Element verified
+2019-09-26 16:21:04,725  INFO [main] log4j:26 - Element verified
+2019-09-26 16:21:05,523  INFO [main] log4j:26 - Element verified
+2019-09-26 16:21:06,678  INFO [main] log4j:26 - Element verified
+2019-09-26 16:33:22,501  INFO [main] log4j:26 - Element verified
+2019-09-26 16:33:23,010  INFO [main] log4j:26 - Element verified
+2019-09-26 16:33:37,900  INFO [main] log4j:26 - Element verified
+2019-09-26 16:33:38,242  INFO [main] log4j:26 - Element verified
+2019-09-26 16:33:38,570  INFO [main] log4j:26 - Element verified
+2019-09-26 16:33:38,867  INFO [main] log4j:26 - Element verified
+2019-09-26 16:35:19,769  INFO [main] log4j:26 - Element verified
+2019-09-26 16:35:20,095  INFO [main] log4j:26 - Element verified
+2019-09-26 16:35:20,411  INFO [main] log4j:26 - Element verified
+2019-09-26 16:35:20,715  INFO [main] log4j:26 - Element verified
+2019-09-26 16:36:24,041  INFO [main] log4j:26 - Element verified
+2019-09-26 16:36:24,378  INFO [main] log4j:26 - Element verified
+2019-09-26 16:36:24,698  INFO [main] log4j:26 - Element verified
+2019-09-26 16:36:25,010  INFO [main] log4j:26 - Element verified
+2019-09-26 16:36:25,334  INFO [main] log4j:26 - Element verified
+2019-09-26 16:36:25,678  INFO [main] log4j:26 - Element verified
+2019-09-26 16:36:25,994  INFO [main] log4j:26 - Element verified
+2019-09-26 16:36:26,302  INFO [main] log4j:26 - Element verified
+2019-09-26 16:39:46,176  INFO [main] log4j:26 - Element verified
+2019-09-26 16:39:46,495  INFO [main] log4j:26 - Element verified
+2019-09-26 16:39:46,847  INFO [main] log4j:26 - Element verified
+2019-09-26 16:39:47,183  INFO [main] log4j:26 - Element verified
+2019-09-26 16:39:47,524  INFO [main] log4j:26 - Element verified
+2019-09-26 16:39:47,856  INFO [main] log4j:26 - Element verified
+2019-09-26 16:39:48,308  INFO [main] log4j:26 - Element verified
+2019-09-26 16:39:48,630  INFO [main] log4j:26 - Element verified
+2019-09-26 16:39:48,946  INFO [main] log4j:26 - Element verified
+2019-09-26 16:39:49,246  INFO [main] log4j:26 - Element verified
+2019-09-26 16:39:49,562  INFO [main] log4j:26 - Element verified
+2019-09-26 16:39:49,860  INFO [main] log4j:26 - Element verified
+2019-09-26 16:39:50,168  INFO [main] log4j:26 - Element verified
+2019-09-26 16:39:50,496  INFO [main] log4j:26 - Element verified
+2019-09-26 16:39:50,812  INFO [main] log4j:26 - Element verified
+2019-09-26 16:39:51,137  INFO [main] log4j:26 - Element verified
+2019-09-26 16:39:51,433  INFO [main] log4j:26 - Element verified
+2019-09-26 16:39:51,737  INFO [main] log4j:26 - Element verified
+2019-09-26 16:39:52,049  INFO [main] log4j:26 - Element verified
+2019-09-26 16:39:52,335  INFO [main] log4j:26 - Element verified
+2019-09-26 16:39:52,623  INFO [main] log4j:26 - Element verified
+2019-09-26 16:39:52,931  INFO [main] log4j:26 - Element verified
+2019-09-26 16:44:00,686  INFO [main] log4j:26 - ExpectedSitemap
+2019-09-26 16:44:01,070  INFO [main] log4j:26 - ExpectedSitemap
+2019-09-26 16:44:01,070  INFO [main] log4j:26 - Title verified
+2019-09-26 16:44:01,074  INFO [main] log4j:26 - ExpectedServices
+2019-09-26 16:44:01,378  INFO [main] log4j:26 - ExpectedServices
+2019-09-26 16:44:01,378  INFO [main] log4j:26 - Title verified
+2019-09-26 16:44:01,382  INFO [main] log4j:26 - ExpectedCareers
+2019-09-26 16:44:01,702  INFO [main] log4j:26 - ExpectedCareers
+2019-09-26 16:44:01,702  INFO [main] log4j:26 - Title verified
+2019-09-26 16:44:01,703  INFO [main] log4j:26 - ExpectedContact Us
+2019-09-26 16:44:02,001  INFO [main] log4j:26 - ExpectedContact Us
+2019-09-26 16:44:02,001  INFO [main] log4j:26 - Title verified
+2019-09-26 16:44:02,005  INFO [main] log4j:26 - ExpectedHome
+2019-09-26 16:44:02,325  INFO [main] log4j:26 - ExpectedHome
+2019-09-26 16:44:02,325  INFO [main] log4j:26 - Sitemap elements verified
+2019-09-26 16:44:02,325  INFO [main] log4j:26 - ExpectedAbout Us
+2019-09-26 16:44:02,653  INFO [main] log4j:26 - ExpectedAbout Us
+2019-09-26 16:44:02,653  INFO [main] log4j:26 - Sitemap elements verified
+2019-09-26 16:44:02,653  INFO [main] log4j:26 - ExpectedServices
+2019-09-26 16:44:02,965  INFO [main] log4j:26 - ExpectedServices
+2019-09-26 16:44:02,965  INFO [main] log4j:26 - Sitemap elements verified
+2019-09-26 16:44:02,966  INFO [main] log4j:26 - ExpectedPartners
+2019-09-26 16:44:03,283  INFO [main] log4j:26 - ExpectedPartners
+2019-09-26 16:44:03,283  INFO [main] log4j:26 - Sitemap elements verified
+2019-09-26 16:44:03,287  INFO [main] log4j:26 - ExpectedCase Studies old
+2019-09-26 16:44:03,579  INFO [main] log4j:26 - ExpectedCase Studies old
+2019-09-26 16:44:03,579  INFO [main] log4j:26 - Sitemap elements verified
+2019-09-26 16:44:03,579  INFO [main] log4j:26 - ExpectedNews
+2019-09-26 16:44:03,883  INFO [main] log4j:26 - ExpectedNews
+2019-09-26 16:44:03,887  INFO [main] log4j:26 - Sitemap elements verified
+2019-09-26 16:44:03,887  INFO [main] log4j:26 - ExpectedCareers
+2019-09-26 16:44:04,191  INFO [main] log4j:26 - ExpectedCareers
+2019-09-26 16:44:04,191  INFO [main] log4j:26 - Sitemap elements verified
+2019-09-26 16:44:04,195  INFO [main] log4j:26 - ExpectedContact Us
+2019-09-26 16:44:04,484  INFO [main] log4j:26 - ExpectedContact Us
+2019-09-26 16:44:04,484  INFO [main] log4j:26 - Sitemap elements verified
+2019-09-26 16:44:04,484  INFO [main] log4j:26 - ExpectedArtificial Intelligence / Machine Learning
+2019-09-26 16:44:04,791  INFO [main] log4j:26 - ExpectedArtificial Intelligence / Machine Learning
+2019-09-26 16:44:04,791  INFO [main] log4j:26 - Services elements verified
+2019-09-26 16:44:04,791  INFO [main] log4j:26 - ExpectedAugmented Reality / Virtual Reality
+2019-09-26 16:44:05,099  INFO [main] log4j:26 - ExpectedAugmented Reality / Virtual Reality
+2019-09-26 16:44:05,099  INFO [main] log4j:26 - Services elements verified
+2019-09-26 16:44:05,103  INFO [main] log4j:26 - ExpectedQuality Engineering
+2019-09-26 16:44:05,459  INFO [main] log4j:26 - ExpectedQuality Engineering
+2019-09-26 16:44:05,459  INFO [main] log4j:26 - Services elements verified
+2019-09-26 16:44:05,459  INFO [main] log4j:26 - ExpectedBlockchain
+2019-09-26 16:44:05,767  INFO [main] log4j:26 - ExpectedBlockchain
+2019-09-26 16:44:05,767  INFO [main] log4j:26 - Services elements verified
+2019-09-26 16:44:05,767  INFO [main] log4j:26 - ExpectedRobotic Process Automation & ChatBOTs
+2019-09-26 16:44:06,075  INFO [main] log4j:26 - ExpectedRobotic Process Automation & ChatBOTs
+2019-09-26 16:44:06,075  INFO [main] log4j:26 - Services elements verified
+2019-09-26 16:44:06,075  INFO [main] log4j:26 - ExpectedCloud Services
+2019-09-26 16:44:06,391  INFO [main] log4j:26 - ExpectedCloud Services
+2019-09-26 16:44:06,391  INFO [main] log4j:26 - Services elements verified
+2019-09-26 16:44:06,391  INFO [main] log4j:26 - ExpectedEnterprise Analytics
+2019-09-26 16:44:06,703  INFO [main] log4j:26 - ExpectedEnterprise Analytics
+2019-09-26 16:44:06,703  INFO [main] log4j:26 - Services elements verified
+2019-09-26 16:44:06,707  INFO [main] log4j:26 - ExpectedInternet of Things
+2019-09-26 16:44:07,012  INFO [main] log4j:26 - ExpectedInternet of Things
+2019-09-26 16:44:07,012  INFO [main] log4j:26 - Services elements verified
+2019-09-26 16:44:07,012  INFO [main] log4j:26 - ExpectedMobile Computing
+2019-09-26 16:44:07,312  INFO [main] log4j:26 - ExpectedMobile Computing
+2019-09-26 16:44:07,312  INFO [main] log4j:26 - Services elements verified
+2019-09-26 16:44:07,312  INFO [main] log4j:26 - ExpectedProduct Engineering
+2019-09-26 16:44:07,623  INFO [main] log4j:26 - ExpectedProduct Engineering
+2019-09-26 16:44:07,623  INFO [main] log4j:26 - Services elements verified
+2019-09-26 16:44:07,623  INFO [main] log4j:26 - ExpectedAutomation Engineer
+2019-09-26 16:44:07,955  INFO [main] log4j:26 - ExpectedAutomation Engineer
+2019-09-26 16:44:07,955  INFO [main] log4j:26 - Element verified
+2019-09-26 16:44:07,958  INFO [main] log4j:26 - ExpectedDevOps Engineer 
+2019-09-26 16:47:59,887  INFO [main] log4j:26 - ExpectedSitemap
+2019-09-26 16:48:00,250  INFO [main] log4j:26 - ExpectedSitemap
+2019-09-26 16:48:00,254  INFO [main] log4j:26 - Title verified
+2019-09-26 16:48:00,254  INFO [main] log4j:26 - ExpectedServices
+2019-09-26 16:48:00,606  INFO [main] log4j:26 - ExpectedServices
+2019-09-26 16:48:00,606  INFO [main] log4j:26 - Title verified
+2019-09-26 16:48:00,606  INFO [main] log4j:26 - ExpectedCareers
+2019-09-26 16:48:00,946  INFO [main] log4j:26 - ExpectedCareers
+2019-09-26 16:48:00,946  INFO [main] log4j:26 - Title verified
+2019-09-26 16:48:00,947  INFO [main] log4j:26 - ExpectedContact Us
+2019-09-26 16:48:01,273  INFO [main] log4j:26 - ExpectedContact Us
+2019-09-26 16:48:01,273  INFO [main] log4j:26 - Title verified
+2019-09-26 16:48:01,273  INFO [main] log4j:26 - ExpectedHome
+2019-09-26 16:48:01,605  INFO [main] log4j:26 - ExpectedHome
+2019-09-26 16:48:01,605  INFO [main] log4j:26 - Sitemap elements verified
+2019-09-26 16:48:01,609  INFO [main] log4j:26 - ExpectedAbout Us
+2019-09-26 16:48:01,949  INFO [main] log4j:26 - ExpectedAbout Us
+2019-09-26 16:48:01,949  INFO [main] log4j:26 - Sitemap elements verified
+2019-09-26 16:48:01,950  INFO [main] log4j:26 - ExpectedServices
+2019-09-26 16:48:02,255  INFO [main] log4j:26 - ExpectedServices
+2019-09-26 16:48:02,255  INFO [main] log4j:26 - Sitemap elements verified
+2019-09-26 16:48:02,255  INFO [main] log4j:26 - ExpectedPartners
+2019-09-26 16:48:02,579  INFO [main] log4j:26 - ExpectedPartners
+2019-09-26 16:48:02,579  INFO [main] log4j:26 - Sitemap elements verified
+2019-09-26 16:48:02,579  INFO [main] log4j:26 - ExpectedCase Studies old
+2019-09-26 16:48:02,895  INFO [main] log4j:26 - ExpectedCase Studies old
+2019-09-26 16:48:02,895  INFO [main] log4j:26 - Sitemap elements verified
+2019-09-26 16:48:02,895  INFO [main] log4j:26 - ExpectedNews
+2019-09-26 16:48:03,207  INFO [main] log4j:26 - ExpectedNews
+2019-09-26 16:48:03,207  INFO [main] log4j:26 - Sitemap elements verified
+2019-09-26 16:48:03,209  INFO [main] log4j:26 - ExpectedCareers
+2019-09-26 16:48:03,562  INFO [main] log4j:26 - ExpectedCareers
+2019-09-26 16:48:03,566  INFO [main] log4j:26 - Sitemap elements verified
+2019-09-26 16:48:03,566  INFO [main] log4j:26 - ExpectedContact Us
+2019-09-26 16:48:03,894  INFO [main] log4j:26 - ExpectedContact Us
+2019-09-26 16:48:03,894  INFO [main] log4j:26 - Sitemap elements verified
+2019-09-26 16:48:03,894  INFO [main] log4j:26 - ExpectedArtificial Intelligence / Machine Learning
+2019-09-26 16:48:04,210  INFO [main] log4j:26 - ExpectedArtificial Intelligence / Machine Learning
+2019-09-26 16:48:04,210  INFO [main] log4j:26 - Services elements verified
+2019-09-26 16:48:04,212  INFO [main] log4j:26 - ExpectedAugmented Reality / Virtual Reality
+2019-09-26 16:48:04,538  INFO [main] log4j:26 - ExpectedAugmented Reality / Virtual Reality
+2019-09-26 16:48:04,538  INFO [main] log4j:26 - Services elements verified
+2019-09-26 16:48:04,538  INFO [main] log4j:26 - ExpectedQuality Engineering
+2019-09-26 16:48:04,862  INFO [main] log4j:26 - ExpectedQuality Engineering
+2019-09-26 16:48:04,862  INFO [main] log4j:26 - Services elements verified
+2019-09-26 16:48:04,866  INFO [main] log4j:26 - ExpectedBlockchain
+2019-09-26 16:48:05,190  INFO [main] log4j:26 - ExpectedBlockchain
+2019-09-26 16:48:05,190  INFO [main] log4j:26 - Services elements verified
+2019-09-26 16:48:05,190  INFO [main] log4j:26 - ExpectedRobotic Process Automation & ChatBOTs
+2019-09-26 16:48:05,514  INFO [main] log4j:26 - ExpectedRobotic Process Automation & ChatBOTs
+2019-09-26 16:48:05,514  INFO [main] log4j:26 - Services elements verified
+2019-09-26 16:48:05,516  INFO [main] log4j:26 - ExpectedCloud Services
+2019-09-26 16:48:05,846  INFO [main] log4j:26 - ExpectedCloud Services
+2019-09-26 16:48:05,846  INFO [main] log4j:26 - Services elements verified
+2019-09-26 16:48:05,846  INFO [main] log4j:26 - ExpectedEnterprise Analytics
+2019-09-26 16:48:06,170  INFO [main] log4j:26 - ExpectedEnterprise Analytics
+2019-09-26 16:48:06,170  INFO [main] log4j:26 - Services elements verified
+2019-09-26 16:48:06,170  INFO [main] log4j:26 - ExpectedInternet of Things
+2019-09-26 16:48:06,486  INFO [main] log4j:26 - ExpectedInternet of Things
+2019-09-26 16:48:06,486  INFO [main] log4j:26 - Services elements verified
+2019-09-26 16:48:06,486  INFO [main] log4j:26 - ExpectedMobile Computing
+2019-09-26 16:48:06,806  INFO [main] log4j:26 - ExpectedMobile Computing
+2019-09-26 16:48:06,806  INFO [main] log4j:26 - Services elements verified
+2019-09-26 16:48:06,808  INFO [main] log4j:26 - ExpectedProduct Engineering
+2019-09-26 16:48:07,103  INFO [main] log4j:26 - ExpectedProduct Engineering
+2019-09-26 16:48:07,103  INFO [main] log4j:26 - Services elements verified
+2019-09-26 16:48:07,103  INFO [main] log4j:26 - ExpectedAutomation Engineer
+2019-09-26 16:48:07,379  INFO [main] log4j:26 - ExpectedAutomation Engineer
+2019-09-26 16:48:07,383  INFO [main] log4j:26 - Element verified
+2019-09-26 16:48:07,383  INFO [main] log4j:26 - ExpectedDevOps Engineer
+2019-09-26 16:48:07,679  INFO [main] log4j:26 - ExpectedDevOps Engineer
+2019-09-26 16:48:07,679  INFO [main] log4j:26 - Element verified
+2019-09-26 16:48:07,683  INFO [main] log4j:26 - ExpectedSenior.NET Engineer
+2019-09-26 16:53:58,098  INFO [main] log4j:26 - Expected Sitemap
+2019-09-26 16:53:58,438  INFO [main] log4j:26 - Actual Sitemap
+2019-09-26 16:53:58,442  INFO [main] log4j:26 - Title verified
+2019-09-26 16:53:58,442  INFO [main] log4j:26 - Expected Services
+2019-09-26 16:53:58,774  INFO [main] log4j:26 - Actual Services
+2019-09-26 16:53:58,774  INFO [main] log4j:26 - Title verified
+2019-09-26 16:53:58,774  INFO [main] log4j:26 - Expected Careers
+2019-09-26 16:53:59,114  INFO [main] log4j:26 - Actual Careers
+2019-09-26 16:53:59,114  INFO [main] log4j:26 - Title verified
+2019-09-26 16:53:59,117  INFO [main] log4j:26 - Expected Contact Us
+2019-09-26 16:53:59,403  INFO [main] log4j:26 - Actual Contact Us
+2019-09-26 16:53:59,403  INFO [main] log4j:26 - Title verified
+2019-09-26 16:53:59,403  INFO [main] log4j:26 - Expected Home
+2019-09-26 16:53:59,699  INFO [main] log4j:26 - Actual Home
+2019-09-26 16:53:59,703  INFO [main] log4j:26 - Sitemap elements verified
+2019-09-26 16:53:59,703  INFO [main] log4j:26 - Expected About Us
+2019-09-26 16:54:00,023  INFO [main] log4j:26 - Actual About Us
+2019-09-26 16:54:00,027  INFO [main] log4j:26 - Sitemap elements verified
+2019-09-26 16:54:00,027  INFO [main] log4j:26 - Expected Services
+2019-09-26 16:54:00,347  INFO [main] log4j:26 - Actual Services
+2019-09-26 16:54:00,351  INFO [main] log4j:26 - Sitemap elements verified
+2019-09-26 16:54:00,351  INFO [main] log4j:26 - Expected Partners
+2019-09-26 16:54:00,650  INFO [main] log4j:26 - Actual Partners
+2019-09-26 16:54:00,650  INFO [main] log4j:26 - Sitemap elements verified
+2019-09-26 16:54:00,650  INFO [main] log4j:26 - Expected Case Studies old
+2019-09-26 16:54:00,954  INFO [main] log4j:26 - Actual Case Studies old
+2019-09-26 16:54:00,954  INFO [main] log4j:26 - Sitemap elements verified
+2019-09-26 16:54:00,954  INFO [main] log4j:26 - Expected News
+2019-09-26 16:54:01,266  INFO [main] log4j:26 - Actual News
+2019-09-26 16:54:01,270  INFO [main] log4j:26 - Sitemap elements verified
+2019-09-26 16:54:01,270  INFO [main] log4j:26 - Expected Careers
+2019-09-26 16:54:01,586  INFO [main] log4j:26 - Actual Careers
+2019-09-26 16:54:01,586  INFO [main] log4j:26 - Sitemap elements verified
+2019-09-26 16:54:01,589  INFO [main] log4j:26 - Expected Contact Us
+2019-09-26 16:54:01,891  INFO [main] log4j:26 - Actual Contact Us
+2019-09-26 16:54:01,891  INFO [main] log4j:26 - Sitemap elements verified
+2019-09-26 16:54:01,895  INFO [main] log4j:26 - Expected Artificial Intelligence / Machine Learning
+2019-09-26 16:54:02,251  INFO [main] log4j:26 - Actual Artificial Intelligence / Machine Learning
+2019-09-26 16:54:02,255  INFO [main] log4j:26 - Services elements verified
+2019-09-26 16:54:02,255  INFO [main] log4j:26 - Expected Augmented Reality / Virtual Reality
+2019-09-26 16:54:02,558  INFO [main] log4j:26 - Actual Augmented Reality / Virtual Reality
+2019-09-26 16:54:02,558  INFO [main] log4j:26 - Services elements verified
+2019-09-26 16:54:02,558  INFO [main] log4j:26 - Expected Quality Engineering
+2019-09-26 16:54:02,870  INFO [main] log4j:26 - Actual Quality Engineering
+2019-09-26 16:54:02,870  INFO [main] log4j:26 - Services elements verified
+2019-09-26 16:54:02,872  INFO [main] log4j:26 - Expected Blockchain
+2019-09-26 16:54:03,189  INFO [main] log4j:26 - Actual Blockchain
+2019-09-26 16:54:03,189  INFO [main] log4j:26 - Services elements verified
+2019-09-26 16:54:03,193  INFO [main] log4j:26 - Expected Robotic Process Automation & ChatBOTs
+2019-09-26 16:54:03,513  INFO [main] log4j:26 - Actual Robotic Process Automation & ChatBOTs
+2019-09-26 16:54:03,513  INFO [main] log4j:26 - Services elements verified
+2019-09-26 16:54:03,517  INFO [main] log4j:26 - Expected Cloud Services
+2019-09-26 16:54:03,837  INFO [main] log4j:26 - Actual Cloud Services
+2019-09-26 16:54:03,837  INFO [main] log4j:26 - Services elements verified
+2019-09-26 16:54:03,837  INFO [main] log4j:26 - Expected Enterprise Analytics
+2019-09-26 16:54:04,169  INFO [main] log4j:26 - Actual Enterprise Analytics
+2019-09-26 16:54:04,169  INFO [main] log4j:26 - Services elements verified
+2019-09-26 16:54:04,170  INFO [main] log4j:26 - Expected Internet of Things
+2019-09-26 16:54:04,455  INFO [main] log4j:26 - Actual Internet of Things
+2019-09-26 16:54:04,455  INFO [main] log4j:26 - Services elements verified
+2019-09-26 16:54:04,455  INFO [main] log4j:26 - Expected Mobile Computing
+2019-09-26 16:54:04,835  INFO [main] log4j:26 - Actual Mobile Computing
+2019-09-26 16:54:04,839  INFO [main] log4j:26 - Services elements verified
+2019-09-26 16:54:04,839  INFO [main] log4j:26 - Expected Product Engineering
+2019-09-26 16:54:05,271  INFO [main] log4j:26 - Actual Product Engineering
+2019-09-26 16:54:05,271  INFO [main] log4j:26 - Services elements verified
+2019-09-26 16:54:05,273  INFO [main] log4j:26 - Expected Automation Engineer
+2019-09-26 16:54:05,730  INFO [main] log4j:26 - Actual Automation Engineer
+2019-09-26 16:54:05,734  INFO [main] log4j:26 - Element verified
+2019-09-26 16:54:05,734  INFO [main] log4j:26 - Expected DevOps Engineer
+2019-09-26 16:54:06,190  INFO [main] log4j:26 - Actual DevOps Engineer
+2019-09-26 16:54:06,194  INFO [main] log4j:26 - Element verified
+2019-09-26 16:54:06,194  INFO [main] log4j:26 - Expected Senior .NET Engineer
+2019-09-26 16:54:06,478  INFO [main] log4j:26 - Actual Senior .NET Engineer
+2019-09-26 16:54:06,478  INFO [main] log4j:26 - Element verified
+2019-09-26 16:54:06,482  INFO [main] log4j:26 - Expected Senior Java/J2EE Engineer
+2019-09-26 16:54:07,051  INFO [main] log4j:26 - Actual Senior Java/J2EE Engineer
+2019-09-26 16:54:07,055  INFO [main] log4j:26 - Element verified
+2019-09-26 16:54:07,055  INFO [main] log4j:26 - Expected US Headquarters
+2019-09-26 16:54:07,534  INFO [main] log4j:26 - Actual US Headquarters
+2019-09-26 16:54:07,534  INFO [main] log4j:26 - Element verified
+2019-09-26 16:54:07,538  INFO [main] log4j:26 - Expected US R&D Center
+2019-09-26 16:54:07,963  INFO [main] log4j:26 - Actual US R&D Center
+2019-09-26 16:54:07,967  INFO [main] log4j:26 - Element verified
+2019-09-26 16:54:07,967  INFO [main] log4j:26 - Expected India – Hyderabad
+2019-09-26 16:54:08,479  INFO [main] log4j:26 - Actual India – Hyderabad
+2019-09-26 16:54:08,479  INFO [main] log4j:26 - Element verified
+2019-09-26 16:54:08,479  INFO [main] log4j:26 - Expected India – Bangalore
+2019-09-26 16:54:08,950  INFO [main] log4j:26 - Actual India – Bangalore
+2019-09-26 16:54:08,950  INFO [main] log4j:26 - Element verified
+2019-09-26 16:54:08,953  INFO [main] log4j:26 - Expected India – Chennai
+2019-09-26 16:54:09,302  INFO [main] log4j:26 - Actual India – Chennai
+2019-09-26 16:54:09,302  INFO [main] log4j:26 - Element verified
+2019-09-26 16:54:09,302  INFO [main] log4j:26 - Expected info@atmecs.com
+2019-09-26 16:54:09,634  INFO [main] log4j:26 - Actual info@atmecs.com
+2019-09-26 16:54:09,634  INFO [main] log4j:26 - Element verified
+2019-09-26 16:54:09,638  INFO [main] log4j:26 - Expected info@atmecs.com
+2019-09-26 16:54:09,918  INFO [main] log4j:26 - Actual info@atmecs.com
+2019-09-26 16:54:09,918  INFO [main] log4j:26 - Element verified
+2019-09-26 16:58:15,105  INFO [main] log4j:26 - Expected Sitemap
+2019-09-26 16:58:15,443  INFO [main] log4j:26 - Actual Sitemap
+2019-09-26 16:58:15,447  INFO [main] log4j:26 - Expected Services
+2019-09-26 16:58:15,795  INFO [main] log4j:26 - Actual Services
+2019-09-26 16:58:15,795  INFO [main] log4j:26 - Expected Careers
+2019-09-26 16:58:16,163  INFO [main] log4j:26 - Actual Careers
+2019-09-26 16:58:16,165  INFO [main] log4j:26 - Expected Contact Us
+2019-09-26 16:58:16,478  INFO [main] log4j:26 - Actual Contact Us
+2019-09-26 16:58:16,482  INFO [main] log4j:26 - Title verified
+2019-09-26 16:58:16,482  INFO [main] log4j:26 - Expected Home
+2019-09-26 16:58:16,849  INFO [main] log4j:26 - Actual Home
+2019-09-26 16:58:16,849  INFO [main] log4j:26 - Expected About Us
+2019-09-26 16:58:17,181  INFO [main] log4j:26 - Actual About Us
+2019-09-26 16:58:17,184  INFO [main] log4j:26 - Expected Services
+2019-09-26 16:58:17,569  INFO [main] log4j:26 - Actual Services
+2019-09-26 16:58:17,569  INFO [main] log4j:26 - Expected Partners
+2019-09-26 16:58:17,981  INFO [main] log4j:26 - Actual Partners
+2019-09-26 16:58:17,981  INFO [main] log4j:26 - Expected Case Studies old
+2019-09-26 16:58:18,301  INFO [main] log4j:26 - Actual Case Studies old
+2019-09-26 16:58:18,303  INFO [main] log4j:26 - Expected News
+2019-09-26 16:58:18,608  INFO [main] log4j:26 - Actual News
+2019-09-26 16:58:18,612  INFO [main] log4j:26 - Expected Careers
+2019-09-26 16:58:18,932  INFO [main] log4j:26 - Actual Careers
+2019-09-26 16:58:18,932  INFO [main] log4j:26 - Expected Contact Us
+2019-09-26 16:58:19,236  INFO [main] log4j:26 - Actual Contact Us
+2019-09-26 16:58:19,236  INFO [main] log4j:26 - Sitemap elements verified
+2019-09-26 16:58:19,240  INFO [main] log4j:26 - Expected Artificial Intelligence / Machine Learning
+2019-09-26 16:58:19,536  INFO [main] log4j:26 - Actual Artificial Intelligence / Machine Learning
+2019-09-26 16:58:19,540  INFO [main] log4j:26 - Expected Augmented Reality / Virtual Reality
+2019-09-26 16:58:19,874  INFO [main] log4j:26 - Actual Augmented Reality / Virtual Reality
+2019-09-26 16:58:19,874  INFO [main] log4j:26 - Expected Quality Engineering
+2019-09-26 16:58:20,198  INFO [main] log4j:26 - Actual Quality Engineering
+2019-09-26 16:58:20,198  INFO [main] log4j:26 - Expected Blockchain
+2019-09-26 16:58:20,514  INFO [main] log4j:26 - Actual Blockchain
+2019-09-26 16:58:20,514  INFO [main] log4j:26 - Expected Robotic Process Automation & ChatBOTs
+2019-09-26 16:58:20,830  INFO [main] log4j:26 - Actual Robotic Process Automation & ChatBOTs
+2019-09-26 16:58:20,834  INFO [main] log4j:26 - Expected Cloud Services
+2019-09-26 16:58:21,140  INFO [main] log4j:26 - Actual Cloud Services
+2019-09-26 16:58:21,140  INFO [main] log4j:26 - Expected Enterprise Analytics
+2019-09-26 16:58:21,448  INFO [main] log4j:26 - Actual Enterprise Analytics
+2019-09-26 16:58:21,448  INFO [main] log4j:26 - Expected Internet of Things
+2019-09-26 16:58:21,739  INFO [main] log4j:26 - Actual Internet of Things
+2019-09-26 16:58:21,743  INFO [main] log4j:26 - Expected Mobile Computing
+2019-09-26 16:58:22,035  INFO [main] log4j:26 - Actual Mobile Computing
+2019-09-26 16:58:22,040  INFO [main] log4j:26 - Expected Product Engineering
+2019-09-26 16:58:22,345  INFO [main] log4j:26 - Actual Product Engineering
+2019-09-26 16:58:22,345  INFO [main] log4j:26 - Services elements verified
+2019-09-26 16:58:22,345  INFO [main] log4j:26 - Expected Automation Engineer
+2019-09-26 16:58:22,665  INFO [main] log4j:26 - Actual Automation Engineer
+2019-09-26 16:58:22,665  INFO [main] log4j:26 - Expected DevOps Engineer
+2019-09-26 16:58:22,973  INFO [main] log4j:26 - Actual DevOps Engineer
+2019-09-26 16:58:22,973  INFO [main] log4j:26 - Expected Senior .NET Engineer
+2019-09-26 16:58:23,281  INFO [main] log4j:26 - Actual Senior .NET Engineer
+2019-09-26 16:58:23,284  INFO [main] log4j:26 - Expected Senior Java/J2EE Engineer
+2019-09-26 16:58:23,593  INFO [main] log4j:26 - Actual Senior Java/J2EE Engineer
+2019-09-26 16:58:23,593  INFO [main] log4j:26 - Element verified
+2019-09-26 16:58:23,593  INFO [main] log4j:26 - Expected US Headquarters
+2019-09-26 16:58:23,913  INFO [main] log4j:26 - Actual US Headquarters
+2019-09-26 16:58:23,913  INFO [main] log4j:26 - Expected US R&D Center
+2019-09-26 16:58:24,229  INFO [main] log4j:26 - Actual US R&D Center
+2019-09-26 16:58:24,229  INFO [main] log4j:26 - Expected India – Hyderabad
+2019-09-26 16:58:24,541  INFO [main] log4j:26 - Actual India – Hyderabad
+2019-09-26 16:58:24,543  INFO [main] log4j:26 - Expected India – Bangalore
+2019-09-26 16:58:24,861  INFO [main] log4j:26 - Actual India – Bangalore
+2019-09-26 16:58:24,861  INFO [main] log4j:26 - Expected India – Chennai
+2019-09-26 16:58:25,193  INFO [main] log4j:26 - Actual India – Chennai
+2019-09-26 16:58:25,193  INFO [main] log4j:26 - Expected info@atmecs.com
+2019-09-26 16:58:25,493  INFO [main] log4j:26 - Actual info@atmecs.com
+2019-09-26 16:58:25,493  INFO [main] log4j:26 - Expected info@atmecs.com
+2019-09-26 16:58:25,765  INFO [main] log4j:26 - Actual info@atmecs.com
+2019-09-26 16:58:25,765  INFO [main] log4j:26 - Element verified
+2019-09-26 17:12:49,855  INFO [main] log4j:26 - Expected Sitemap
+2019-09-26 17:12:50,226  INFO [main] log4j:26 - Actual Sitemap
+2019-09-26 17:12:50,226  INFO [main] log4j:26 - Expected Services
+2019-09-26 17:12:50,530  INFO [main] log4j:26 - Actual Services
+2019-09-26 17:12:50,534  INFO [main] log4j:26 - Expected Careers
+2019-09-26 17:12:50,834  INFO [main] log4j:26 - Actual Careers
+2019-09-26 17:12:50,834  INFO [main] log4j:26 - Expected Contact Us
+2019-09-26 17:12:51,158  INFO [main] log4j:26 - Actual Contact Us
+2019-09-26 17:12:51,163  INFO [main] log4j:26 - Title verified
+2019-09-26 17:12:51,163  INFO [main] log4j:26 - Expected Home
+2019-09-26 17:12:51,487  INFO [main] log4j:26 - Actual Home
+2019-09-26 17:12:51,487  INFO [main] log4j:26 - Expected About Us
+2019-09-26 17:12:51,802  INFO [main] log4j:26 - Actual About Us
+2019-09-26 17:12:51,802  INFO [main] log4j:26 - Expected Services
+2019-09-26 17:12:52,166  INFO [main] log4j:26 - Actual Services
+2019-09-26 17:12:52,170  INFO [main] log4j:26 - Expected Partners
+2019-09-26 17:12:52,500  INFO [main] log4j:26 - Actual Partners
+2019-09-26 17:12:52,500  INFO [main] log4j:26 - Expected Case Studies old
+2019-09-26 17:12:52,844  INFO [main] log4j:26 - Actual Case Studies old
+2019-09-26 17:12:52,844  INFO [main] log4j:26 - Expected News
+2019-09-26 17:12:53,204  INFO [main] log4j:26 - Actual News
+2019-09-26 17:12:53,207  INFO [main] log4j:26 - Expected Careers
+2019-09-26 17:12:53,617  INFO [main] log4j:26 - Actual Careers
+2019-09-26 17:12:53,617  INFO [main] log4j:26 - Expected Contact Us
+2019-09-26 17:12:53,925  INFO [main] log4j:26 - Actual Contact Us
+2019-09-26 17:12:53,925  INFO [main] log4j:26 - Sitemap elements verified
+2019-09-26 17:12:53,925  INFO [main] log4j:26 - Expected Artificial Intelligence / Machine Learning
+2019-09-26 17:12:54,245  INFO [main] log4j:26 - Actual Artificial Intelligence / Machine Learning
+2019-09-26 17:12:54,249  INFO [main] log4j:26 - Expected Augmented Reality / Virtual Reality
+2019-09-26 17:12:54,586  INFO [main] log4j:26 - Actual Augmented Reality / Virtual Reality
+2019-09-26 17:12:54,586  INFO [main] log4j:26 - Expected Quality Engineering
+2019-09-26 17:12:54,942  INFO [main] log4j:26 - Actual Quality Engineering
+2019-09-26 17:12:54,942  INFO [main] log4j:26 - Expected Blockchain
+2019-09-26 17:12:55,281  INFO [main] log4j:26 - Actual Blockchain
+2019-09-26 17:12:55,286  INFO [main] log4j:26 - Expected Robotic Process Automation & ChatBOTs
+2019-09-26 17:12:55,595  INFO [main] log4j:26 - Actual Robotic Process Automation & ChatBOTs
+2019-09-26 17:12:55,595  INFO [main] log4j:26 - Expected Cloud Services
+2019-09-26 17:12:55,926  INFO [main] log4j:26 - Actual Cloud Services
+2019-09-26 17:12:55,926  INFO [main] log4j:26 - Expected Enterprise Analytics
+2019-09-26 17:12:56,230  INFO [main] log4j:26 - Actual Enterprise Analytics
+2019-09-26 17:12:56,230  INFO [main] log4j:26 - Expected Internet of Things
+2019-09-26 17:12:56,510  INFO [main] log4j:26 - Actual Internet of Things
+2019-09-26 17:12:56,515  INFO [main] log4j:26 - Expected Mobile Computing
+2019-09-26 17:12:56,804  INFO [main] log4j:26 - Actual Mobile Computing
+2019-09-26 17:12:56,808  INFO [main] log4j:26 - Expected Product Engineering
+2019-09-26 17:12:57,096  INFO [main] log4j:26 - Actual Product Engineering
+2019-09-26 17:12:57,096  INFO [main] log4j:26 - Services elements verified
+2019-09-26 17:12:57,096  INFO [main] log4j:26 - Expected Automation Engineer
+2019-09-26 17:12:57,403  INFO [main] log4j:26 - Actual Automation Engineer
+2019-09-26 17:12:57,403  INFO [main] log4j:26 - Expected DevOps Engineer
+2019-09-26 17:12:57,699  INFO [main] log4j:26 - Actual DevOps Engineer
+2019-09-26 17:12:57,701  INFO [main] log4j:26 - Expected Senior .NET Engineer
+2019-09-26 17:12:57,999  INFO [main] log4j:26 - Actual Senior .NET Engineer
+2019-09-26 17:12:57,999  INFO [main] log4j:26 - Expected Senior Java/J2EE Engineer
+2019-09-26 17:12:58,302  INFO [main] log4j:26 - Actual Senior Java/J2EE Engineer
+2019-09-26 17:12:58,302  INFO [main] log4j:26 - Element verified
+2019-09-26 17:12:58,302  INFO [main] log4j:26 - Expected US Headquarters
+2019-09-26 17:12:58,602  INFO [main] log4j:26 - Actual US Headquarters
+2019-09-26 17:12:58,602  INFO [main] log4j:26 - Expected US R&D Center
+2019-09-26 17:12:58,926  INFO [main] log4j:26 - Actual US R&D Center
+2019-09-26 17:12:58,928  INFO [main] log4j:26 - Expected India – Hyderabad
+2019-09-26 17:12:59,241  INFO [main] log4j:26 - Actual India – Hyderabad
+2019-09-26 17:12:59,241  INFO [main] log4j:26 - Expected India – Bangalore
+2019-09-26 17:12:59,541  INFO [main] log4j:26 - Actual India – Bangalore
+2019-09-26 17:12:59,541  INFO [main] log4j:26 - Expected India – Chennai
+2019-09-26 17:12:59,845  INFO [main] log4j:26 - Actual India – Chennai
+2019-09-26 17:12:59,845  INFO [main] log4j:26 - Expected info@atmecs.com
+2019-09-26 17:13:00,181  INFO [main] log4j:26 - Actual info@atmecs.com
+2019-09-26 17:13:00,182  INFO [main] log4j:26 - Expected info@atmecs.com
+2019-09-26 17:13:00,456  INFO [main] log4j:26 - Actual info@atmecs.com
+2019-09-26 17:13:00,460  INFO [main] log4j:26 - Element verified
+2019-09-26 17:13:01,972  INFO [main] log4j:26 - Expected Sitemap
+2019-09-26 17:13:02,292  INFO [main] log4j:26 - Actual Sitemap
+2019-09-26 17:13:02,292  INFO [main] log4j:26 - Expected Services
+2019-09-26 17:13:02,641  INFO [main] log4j:26 - Actual Services
+2019-09-26 17:13:02,641  INFO [main] log4j:26 - Expected Careers
+2019-09-26 17:17:25,433  INFO [main] log4j:26 - Expected Sitemap
+2019-09-26 17:17:25,799  INFO [main] log4j:26 - Actual Sitemap
+2019-09-26 17:17:25,799  INFO [main] log4j:26 - Expected Services
+2019-09-26 17:17:26,119  INFO [main] log4j:26 - Actual Services
+2019-09-26 17:17:26,119  INFO [main] log4j:26 - Expected Careers
+2019-09-26 17:17:26,447  INFO [main] log4j:26 - Actual Careers
+2019-09-26 17:17:26,451  INFO [main] log4j:26 - Expected Contact Us
+2019-09-26 17:17:26,765  INFO [main] log4j:26 - Actual Contact Us
+2019-09-26 17:17:26,769  INFO [main] log4j:26 - Title verified
+2019-09-26 17:17:26,769  INFO [main] log4j:26 - Expected Home
+2019-09-26 17:17:27,085  INFO [main] log4j:26 - Actual Home
+2019-09-26 17:17:27,085  INFO [main] log4j:26 - Expected About Us
+2019-09-26 17:17:27,401  INFO [main] log4j:26 - Actual About Us
+2019-09-26 17:17:27,401  INFO [main] log4j:26 - Expected Services
+2019-09-26 17:17:27,729  INFO [main] log4j:26 - Actual Services
+2019-09-26 17:17:27,733  INFO [main] log4j:26 - Expected Partners
+2019-09-26 17:17:28,032  INFO [main] log4j:26 - Actual Partners
+2019-09-26 17:17:28,032  INFO [main] log4j:26 - Expected Case Studies old
+2019-09-26 17:17:28,324  INFO [main] log4j:26 - Actual Case Studies old
+2019-09-26 17:17:28,324  INFO [main] log4j:26 - Expected News
+2019-09-26 17:17:28,620  INFO [main] log4j:26 - Actual News
+2019-09-26 17:17:28,620  INFO [main] log4j:26 - Expected Careers
+2019-09-26 17:17:28,924  INFO [main] log4j:26 - Actual Careers
+2019-09-26 17:17:28,924  INFO [main] log4j:26 - Expected Contact Us
+2019-09-26 17:17:29,245  INFO [main] log4j:26 - Actual Contact Us
+2019-09-26 17:17:29,245  INFO [main] log4j:26 - Sitemap elements verified
+2019-09-26 17:17:29,245  INFO [main] log4j:26 - Expected Artificial Intelligence / Machine Learning
+2019-09-26 17:17:29,565  INFO [main] log4j:26 - Actual Artificial Intelligence / Machine Learning
+2019-09-26 17:17:29,569  INFO [main] log4j:26 - Expected Augmented Reality / Virtual Reality
+2019-09-26 17:17:29,868  INFO [main] log4j:26 - Actual Augmented Reality / Virtual Reality
+2019-09-26 17:17:29,868  INFO [main] log4j:26 - Expected Quality Engineering
+2019-09-26 17:17:30,240  INFO [main] log4j:26 - Actual Quality Engineering
+2019-09-26 17:17:30,241  INFO [main] log4j:26 - Expected Blockchain
+2019-09-26 17:17:30,550  INFO [main] log4j:26 - Actual Blockchain
+2019-09-26 17:17:30,550  INFO [main] log4j:26 - Expected Robotic Process Automation & ChatBOTs
+2019-09-26 17:17:30,838  INFO [main] log4j:26 - Actual Robotic Process Automation & ChatBOTs
+2019-09-26 17:17:30,842  INFO [main] log4j:26 - Expected Cloud Services
+2019-09-26 17:17:31,130  INFO [main] log4j:26 - Actual Cloud Services
+2019-09-26 17:17:31,130  INFO [main] log4j:26 - Expected Enterprise Analytics
+2019-09-26 17:17:31,410  INFO [main] log4j:26 - Actual Enterprise Analytics
+2019-09-26 17:17:31,412  INFO [main] log4j:26 - Expected Internet of Things
+2019-09-26 17:17:31,710  INFO [main] log4j:26 - Actual Internet of Things
+2019-09-26 17:17:31,714  INFO [main] log4j:26 - Expected Mobile Computing
+2019-09-26 17:17:32,022  INFO [main] log4j:26 - Actual Mobile Computing
+2019-09-26 17:17:32,022  INFO [main] log4j:26 - Expected Product Engineering
+2019-09-26 17:17:32,326  INFO [main] log4j:26 - Actual Product Engineering
+2019-09-26 17:17:32,330  INFO [main] log4j:26 - Services elements verified
+2019-09-26 17:17:32,330  INFO [main] log4j:26 - Expected Automation Engineer
+2019-09-26 17:17:32,622  INFO [main] log4j:26 - Actual Automation Engineer
+2019-09-26 17:17:32,626  INFO [main] log4j:26 - Expected DevOps Engineer
+2019-09-26 17:17:32,939  INFO [main] log4j:26 - Actual DevOps Engineer
+2019-09-26 17:17:32,939  INFO [main] log4j:26 - Expected Senior .NET Engineer
+2019-09-26 17:17:33,247  INFO [main] log4j:26 - Actual Senior .NET Engineer
+2019-09-26 17:17:33,247  INFO [main] log4j:26 - Expected Senior Java/J2EE Engineer
+2019-09-26 17:17:33,551  INFO [main] log4j:26 - Actual Senior Java/J2EE Engineer
+2019-09-26 17:17:33,551  INFO [main] log4j:26 - Element verified
+2019-09-26 17:17:33,551  INFO [main] log4j:26 - Expected US Headquarters
+2019-09-26 17:17:33,839  INFO [main] log4j:26 - Actual US Headquarters
+2019-09-26 17:17:33,842  INFO [main] log4j:26 - Expected US R&D Center
+2019-09-26 17:17:34,163  INFO [main] log4j:26 - Actual US R&D Center
+2019-09-26 17:17:34,163  INFO [main] log4j:26 - Expected India – Hyderabad
+2019-09-26 17:17:34,475  INFO [main] log4j:26 - Actual India – Hyderabad
+2019-09-26 17:17:34,479  INFO [main] log4j:26 - Expected India – Bangalore
+2019-09-26 17:17:34,791  INFO [main] log4j:26 - Actual India – Bangalore
+2019-09-26 17:17:34,791  INFO [main] log4j:26 - Expected India – Chennai
+2019-09-26 17:17:35,167  INFO [main] log4j:26 - Actual India – Chennai
+2019-09-26 17:17:35,171  INFO [main] log4j:26 - Expected info@atmecs.com
+2019-09-26 17:17:35,509  INFO [main] log4j:26 - Actual info@atmecs.com
+2019-09-26 17:17:35,509  INFO [main] log4j:26 - Expected info@atmecs.com
+2019-09-26 17:17:35,777  INFO [main] log4j:26 - Actual info@atmecs.com
+2019-09-26 17:17:35,777  INFO [main] log4j:26 - Element verified
+2019-09-26 17:17:36,988  INFO [main] log4j:26 - Expected Sitemap
+2019-09-26 17:17:37,350  INFO [main] log4j:26 - Actual Sitemap
+2019-09-26 17:17:37,350  INFO [main] log4j:26 - Expected Services
+2019-09-26 17:17:38,630  INFO [main] log4j:26 - Actual Services
+2019-09-26 17:17:38,630  INFO [main] log4j:26 - Expected Careers
+2019-09-26 17:17:38,969  INFO [main] log4j:26 - Actual Careers
+2019-09-26 17:17:38,969  INFO [main] log4j:26 - Expected Contact Us
+2019-09-26 17:17:39,277  INFO [main] log4j:26 - Actual Contact Us
+2019-09-26 17:17:39,281  INFO [main] log4j:26 - Title verified
+2019-09-26 17:17:39,281  INFO [main] log4j:26 - Expected Home
+2019-09-26 17:17:39,597  INFO [main] log4j:26 - Actual Home
+2019-09-26 17:17:39,597  INFO [main] log4j:26 - Expected About Us
+2019-09-26 17:17:39,921  INFO [main] log4j:26 - Actual About Us
+2019-09-26 17:17:39,923  INFO [main] log4j:26 - Expected Services
+2019-09-26 17:17:40,209  INFO [main] log4j:26 - Actual Services
+2019-09-26 17:17:40,213  INFO [main] log4j:26 - Expected Partners
+2019-09-26 17:17:40,517  INFO [main] log4j:26 - Actual Partners
+2019-09-26 17:17:40,517  INFO [main] log4j:26 - Expected Case Studies old
+2019-09-26 17:17:40,837  INFO [main] log4j:26 - Actual Case Studies old
+2019-09-26 17:17:40,837  INFO [main] log4j:26 - Expected News
+2019-09-26 17:17:41,153  INFO [main] log4j:26 - Actual News
+2019-09-26 17:17:41,154  INFO [main] log4j:26 - Expected Careers
+2019-09-26 17:17:41,436  INFO [main] log4j:26 - Actual Careers
+2019-09-26 17:17:41,436  INFO [main] log4j:26 - Expected Contact Us
+2019-09-26 17:17:41,752  INFO [main] log4j:26 - Actual Contact Us
+2019-09-26 17:17:41,752  INFO [main] log4j:26 - Sitemap elements verified
+2019-09-26 17:17:41,752  INFO [main] log4j:26 - Expected Artificial Intelligence / Machine Learning
+2019-09-26 17:17:42,084  INFO [main] log4j:26 - Actual Artificial Intelligence / Machine Learning
+2019-09-26 17:17:42,084  INFO [main] log4j:26 - Expected Augmented Reality / Virtual Reality
+2019-09-26 17:17:42,652  INFO [main] log4j:26 - Actual Augmented Reality / Virtual Reality
+2019-09-26 17:17:42,652  INFO [main] log4j:26 - Expected Quality Engineering
+2019-09-26 17:17:43,069  INFO [main] log4j:26 - Actual Quality Engineering
+2019-09-26 17:17:43,069  INFO [main] log4j:26 - Expected Blockchain
+2019-09-26 17:17:43,442  INFO [main] log4j:26 - Actual Blockchain
+2019-09-26 17:17:43,442  INFO [main] log4j:26 - Expected Robotic Process Automation & ChatBOTs
+2019-09-26 17:17:43,874  INFO [main] log4j:26 - Actual Robotic Process Automation & ChatBOTs
+2019-09-26 17:17:43,878  INFO [main] log4j:26 - Expected Cloud Services
+2019-09-26 17:17:44,539  INFO [main] log4j:26 - Actual Cloud Services
+2019-09-26 17:17:44,539  INFO [main] log4j:26 - Expected Enterprise Analytics
+2019-09-26 17:17:44,895  INFO [main] log4j:26 - Actual Enterprise Analytics
+2019-09-26 17:17:44,895  INFO [main] log4j:26 - Expected Internet of Things
+2019-09-26 17:17:45,181  INFO [main] log4j:26 - Actual Internet of Things
+2019-09-26 17:17:45,181  INFO [main] log4j:26 - Expected Mobile Computing
+2019-09-26 17:17:45,709  INFO [main] log4j:26 - Actual Mobile Computing
+2019-09-26 17:17:45,709  INFO [main] log4j:26 - Expected Product Engineering
+2019-09-26 17:17:46,187  INFO [main] log4j:26 - Actual Product Engineering
+2019-09-26 17:17:46,191  INFO [main] log4j:26 - Services elements verified
+2019-09-26 17:17:46,191  INFO [main] log4j:26 - Expected Automation Engineer
+2019-09-26 17:17:46,560  INFO [main] log4j:26 - Actual Automation Engineer
+2019-09-26 17:17:46,560  INFO [main] log4j:26 - Expected DevOps Engineer
+2019-09-26 17:17:46,988  INFO [main] log4j:26 - Actual DevOps Engineer
+2019-09-26 17:17:46,988  INFO [main] log4j:26 - Expected Senior .NET Engineer
+2019-09-26 17:17:47,312  INFO [main] log4j:26 - Actual Senior .NET Engineer
+2019-09-26 17:17:47,314  INFO [main] log4j:26 - Expected Senior Java/J2EE Engineer
+2019-09-26 17:17:47,600  INFO [main] log4j:26 - Actual Senior Java/J2EE Engineer
+2019-09-26 17:17:47,600  INFO [main] log4j:26 - Element verified
+2019-09-26 17:17:47,600  INFO [main] log4j:26 - Expected US Headquarters
+2019-09-26 17:17:47,924  INFO [main] log4j:26 - Actual US Headquarters
+2019-09-26 17:17:47,924  INFO [main] log4j:26 - Expected US R&D Center
+2019-09-26 17:17:48,456  INFO [main] log4j:26 - Actual US R&D Center
+2019-09-26 17:17:48,460  INFO [main] log4j:26 - Expected India – Hyderabad
+2019-09-26 17:17:49,046  INFO [main] log4j:26 - Actual India – Hyderabad
+2019-09-26 17:17:49,046  INFO [main] log4j:26 - Expected India – Bangalore
+2019-09-26 17:17:49,601  INFO [main] log4j:26 - Actual India – Bangalore
+2019-09-26 17:17:49,602  INFO [main] log4j:26 - Expected India – Chennai
+2019-09-26 17:17:50,067  INFO [main] log4j:26 - Actual India – Chennai
+2019-09-26 17:17:50,067  INFO [main] log4j:26 - Expected info@atmecs.com
+2019-09-26 17:17:50,463  INFO [main] log4j:26 - Actual info@atmecs.com
+2019-09-26 17:17:50,463  INFO [main] log4j:26 - Expected info@atmecs.com
+2019-09-26 17:17:50,847  INFO [main] log4j:26 - Actual info@atmecs.com
+2019-09-26 17:17:50,847  INFO [main] log4j:26 - Element verified
+2019-09-26 17:17:52,463  INFO [main] log4j:26 - Expected Sitemap
+2019-09-26 17:20:50,356  INFO [main] log4j:26 - Expected Sitemap
+2019-09-26 17:20:50,725  INFO [main] log4j:26 - Actual Sitemap
+2019-09-26 17:20:50,729  INFO [main] log4j:26 - Expected Services
+2019-09-26 17:20:51,081  INFO [main] log4j:26 - Actual Services
+2019-09-26 17:20:51,081  INFO [main] log4j:26 - Expected Careers
+2019-09-26 17:20:51,377  INFO [main] log4j:26 - Actual Careers
+2019-09-26 17:20:51,381  INFO [main] log4j:26 - Expected Contact Us
+2019-09-26 17:20:51,687  INFO [main] log4j:26 - Actual Contact Us
+2019-09-26 17:20:51,691  INFO [main] log4j:26 - Title verified
+2019-09-26 17:20:51,691  INFO [main] log4j:26 - Expected Home
+2019-09-26 17:20:51,982  INFO [main] log4j:26 - Actual Home
+2019-09-26 17:20:51,982  INFO [main] log4j:26 - Expected About Us
+2019-09-26 17:20:52,310  INFO [main] log4j:26 - Actual About Us
+2019-09-26 17:20:52,310  INFO [main] log4j:26 - Expected Services
+2019-09-26 17:20:52,618  INFO [main] log4j:26 - Actual Services
+2019-09-26 17:20:52,621  INFO [main] log4j:26 - Expected Partners
+2019-09-26 17:20:52,942  INFO [main] log4j:26 - Actual Partners
+2019-09-26 17:20:52,942  INFO [main] log4j:26 - Expected Case Studies old
+2019-09-26 17:20:53,254  INFO [main] log4j:26 - Actual Case Studies old
+2019-09-26 17:20:53,254  INFO [main] log4j:26 - Expected News
+2019-09-26 17:20:53,610  INFO [main] log4j:26 - Actual News
+2019-09-26 17:20:53,610  INFO [main] log4j:26 - Expected Careers
+2019-09-26 17:20:53,906  INFO [main] log4j:26 - Actual Careers
+2019-09-26 17:20:53,909  INFO [main] log4j:26 - Expected Contact Us
+2019-09-26 17:20:54,206  INFO [main] log4j:26 - Actual Contact Us
+2019-09-26 17:20:54,206  INFO [main] log4j:26 - Sitemap elements verified
+2019-09-26 17:20:54,206  INFO [main] log4j:26 - Expected Artificial Intelligence / Machine Learning
+2019-09-26 17:20:54,598  INFO [main] log4j:26 - Actual Artificial Intelligence / Machine Learning
+2019-09-26 17:20:54,598  INFO [main] log4j:26 - Expected Augmented Reality / Virtual Reality
+2019-09-26 17:20:54,962  INFO [main] log4j:26 - Actual Augmented Reality / Virtual Reality
+2019-09-26 17:20:54,962  INFO [main] log4j:26 - Expected Quality Engineering
+2019-09-26 17:20:55,291  INFO [main] log4j:26 - Actual Quality Engineering
+2019-09-26 17:20:55,291  INFO [main] log4j:26 - Expected Blockchain
+2019-09-26 17:20:55,599  INFO [main] log4j:26 - Actual Blockchain
+2019-09-26 17:20:55,599  INFO [main] log4j:26 - Expected Robotic Process Automation & ChatBOTs
+2019-09-26 17:20:55,915  INFO [main] log4j:26 - Actual Robotic Process Automation & ChatBOTs
+2019-09-26 17:20:55,915  INFO [main] log4j:26 - Expected Cloud Services
+2019-09-26 17:20:56,235  INFO [main] log4j:26 - Actual Cloud Services
+2019-09-26 17:20:56,236  INFO [main] log4j:26 - Expected Enterprise Analytics
+2019-09-26 17:20:56,538  INFO [main] log4j:26 - Actual Enterprise Analytics
+2019-09-26 17:20:56,538  INFO [main] log4j:26 - Expected Internet of Things
+2019-09-26 17:20:56,886  INFO [main] log4j:26 - Actual Internet of Things
+2019-09-26 17:20:56,886  INFO [main] log4j:26 - Expected Mobile Computing
+2019-09-26 17:20:57,338  INFO [main] log4j:26 - Actual Mobile Computing
+2019-09-26 17:20:57,338  INFO [main] log4j:26 - Expected Product Engineering
+2019-09-26 17:20:57,721  INFO [main] log4j:26 - Actual Product Engineering
+2019-09-26 17:20:57,721  INFO [main] log4j:26 - Services elements verified
+2019-09-26 17:20:57,721  INFO [main] log4j:26 - Expected Automation Engineer
+2019-09-26 17:20:58,081  INFO [main] log4j:26 - Actual Automation Engineer
+2019-09-26 17:20:58,081  INFO [main] log4j:26 - Expected DevOps Engineer
+2019-09-26 17:20:58,441  INFO [main] log4j:26 - Actual DevOps Engineer
+2019-09-26 17:20:58,444  INFO [main] log4j:26 - Expected Senior .NET Engineer
+2019-09-26 17:20:58,770  INFO [main] log4j:26 - Actual Senior .NET Engineer
+2019-09-26 17:20:58,770  INFO [main] log4j:26 - Expected Senior Java/J2EE Engineer
+2019-09-26 17:20:59,078  INFO [main] log4j:26 - Actual Senior Java/J2EE Engineer
+2019-09-26 17:20:59,078  INFO [main] log4j:26 - Element verified
+2019-09-26 17:20:59,078  INFO [main] log4j:26 - Expected US Headquarters
+2019-09-26 17:20:59,358  INFO [main] log4j:26 - Actual US Headquarters
+2019-09-26 17:20:59,362  INFO [main] log4j:26 - Expected US R&D Center
+2019-09-26 17:20:59,662  INFO [main] log4j:26 - Actual US R&D Center
+2019-09-26 17:20:59,662  INFO [main] log4j:26 - Expected India – Hyderabad
+2019-09-26 17:21:00,136  INFO [main] log4j:26 - Actual India – Hyderabad
+2019-09-26 17:21:00,140  INFO [main] log4j:26 - Expected India – Bangalore
+2019-09-26 17:21:00,452  INFO [main] log4j:26 - Actual India – Bangalore
+2019-09-26 17:21:00,452  INFO [main] log4j:26 - Expected India – Chennai
+2019-09-26 17:21:00,788  INFO [main] log4j:26 - Actual India – Chennai
+2019-09-26 17:21:00,791  INFO [main] log4j:26 - Expected info@atmecs.com
+2019-09-26 17:21:01,180  INFO [main] log4j:26 - Actual info@atmecs.com
+2019-09-26 17:21:01,180  INFO [main] log4j:26 - Expected info@atmecs.com
+2019-09-26 17:21:01,784  INFO [main] log4j:26 - Actual info@atmecs.com
+2019-09-26 17:21:01,784  INFO [main] log4j:26 - Element verified
+2019-09-26 17:21:03,388  INFO [main] log4j:26 - Expected Sitemap
+2019-09-26 17:21:03,676  INFO [main] log4j:26 - Actual Sitemap
+2019-09-26 17:21:03,676  INFO [main] log4j:26 - Expected Services
+2019-09-26 17:21:03,952  INFO [main] log4j:26 - Actual Services
+2019-09-26 17:21:03,952  INFO [main] log4j:26 - Expected Careers
+2019-09-26 17:21:04,240  INFO [main] log4j:26 - Actual Careers
+2019-09-26 17:21:04,240  INFO [main] log4j:26 - Expected Contact Us
+2019-09-26 17:21:57,974  INFO [main] log4j:26 - Expected Sitemap
+2019-09-26 17:21:58,359  INFO [main] log4j:26 - Actual Sitemap
+2019-09-26 17:21:58,359  INFO [main] log4j:26 - Expected Services
+2019-09-26 17:21:58,695  INFO [main] log4j:26 - Actual Services
+2019-09-26 17:21:58,695  INFO [main] log4j:26 - Expected Careers
+2019-09-26 17:21:59,039  INFO [main] log4j:26 - Actual Careers
+2019-09-26 17:21:59,039  INFO [main] log4j:26 - Expected Contact Us
+2019-09-26 17:21:59,363  INFO [main] log4j:26 - Actual Contact Us
+2019-09-26 17:21:59,367  INFO [main] log4j:26 - Title verified
+2019-09-26 17:21:59,367  INFO [main] log4j:26 - Expected Home
+2019-09-26 17:21:59,703  INFO [main] log4j:26 - Actual Home
+2019-09-26 17:21:59,707  INFO [main] log4j:26 - Expected About Us
+2019-09-26 17:22:00,047  INFO [main] log4j:26 - Actual About Us
+2019-09-26 17:22:00,049  INFO [main] log4j:26 - Expected Services
+2019-09-26 17:22:00,380  INFO [main] log4j:26 - Actual Services
+2019-09-26 17:22:00,380  INFO [main] log4j:26 - Expected Partners
+2019-09-26 17:22:00,716  INFO [main] log4j:26 - Actual Partners
+2019-09-26 17:22:00,716  INFO [main] log4j:26 - Expected Case Studies old
+2019-09-26 17:22:01,032  INFO [main] log4j:26 - Actual Case Studies old
+2019-09-26 17:22:01,032  INFO [main] log4j:26 - Expected News
+2019-09-26 17:22:01,348  INFO [main] log4j:26 - Actual News
+2019-09-26 17:22:01,351  INFO [main] log4j:26 - Expected Careers
+2019-09-26 17:22:01,665  INFO [main] log4j:26 - Actual Careers
+2019-09-26 17:22:01,665  INFO [main] log4j:26 - Expected Contact Us
+2019-09-26 17:22:01,988  INFO [main] log4j:26 - Actual Contact Us
+2019-09-26 17:22:01,988  INFO [main] log4j:26 - Sitemap elements verified
+2019-09-26 17:22:01,988  INFO [main] log4j:26 - Expected Artificial Intelligence / Machine Learning
+2019-09-26 17:22:02,312  INFO [main] log4j:26 - Actual Artificial Intelligence / Machine Learning
+2019-09-26 17:22:02,316  INFO [main] log4j:26 - Expected Augmented Reality / Virtual Reality
+2019-09-26 17:22:02,696  INFO [main] log4j:26 - Actual Augmented Reality / Virtual Reality
+2019-09-26 17:22:02,696  INFO [main] log4j:26 - Expected Quality Engineering
+2019-09-26 17:22:03,036  INFO [main] log4j:26 - Actual Quality Engineering
+2019-09-26 17:22:03,036  INFO [main] log4j:26 - Expected Blockchain
+2019-09-26 17:22:03,376  INFO [main] log4j:26 - Actual Blockchain
+2019-09-26 17:22:03,376  INFO [main] log4j:26 - Expected Robotic Process Automation & ChatBOTs
+2019-09-26 17:22:03,727  INFO [main] log4j:26 - Actual Robotic Process Automation & ChatBOTs
+2019-09-26 17:22:03,727  INFO [main] log4j:26 - Expected Cloud Services
+2019-09-26 17:22:04,076  INFO [main] log4j:26 - Actual Cloud Services
+2019-09-26 17:22:04,076  INFO [main] log4j:26 - Expected Enterprise Analytics
+2019-09-26 17:22:04,416  INFO [main] log4j:26 - Actual Enterprise Analytics
+2019-09-26 17:22:04,416  INFO [main] log4j:26 - Expected Internet of Things
+2019-09-26 17:22:04,756  INFO [main] log4j:26 - Actual Internet of Things
+2019-09-26 17:22:04,757  INFO [main] log4j:26 - Expected Mobile Computing
+2019-09-26 17:22:05,094  INFO [main] log4j:26 - Actual Mobile Computing
+2019-09-26 17:22:05,094  INFO [main] log4j:26 - Expected Product Engineering
+2019-09-26 17:22:05,408  INFO [main] log4j:26 - Actual Product Engineering
+2019-09-26 17:22:05,408  INFO [main] log4j:26 - Services elements verified
+2019-09-26 17:22:05,408  INFO [main] log4j:26 - Expected Automation Engineer
+2019-09-26 17:22:05,728  INFO [main] log4j:26 - Actual Automation Engineer
+2019-09-26 17:22:05,728  INFO [main] log4j:26 - Expected DevOps Engineer
+2019-09-26 17:22:06,128  INFO [main] log4j:26 - Actual DevOps Engineer
+2019-09-26 17:22:06,129  INFO [main] log4j:26 - Expected Senior .NET Engineer
+2019-09-26 17:22:06,550  INFO [main] log4j:26 - Actual Senior .NET Engineer
+2019-09-26 17:22:06,550  INFO [main] log4j:26 - Expected Senior Java/J2EE Engineer
+2019-09-26 17:22:07,298  INFO [main] log4j:26 - Actual Senior Java/J2EE Engineer
+2019-09-26 17:22:07,298  INFO [main] log4j:26 - Element verified
+2019-09-26 17:22:07,298  INFO [main] log4j:26 - Expected US Headquarters
+2019-09-26 17:22:07,815  INFO [main] log4j:26 - Actual US Headquarters
+2019-09-26 17:22:07,815  INFO [main] log4j:26 - Expected US R&D Center
+2019-09-26 17:22:08,123  INFO [main] log4j:26 - Actual US R&D Center
+2019-09-26 17:22:08,123  INFO [main] log4j:26 - Expected India – Hyderabad
+2019-09-26 17:22:08,411  INFO [main] log4j:26 - Actual India – Hyderabad
+2019-09-26 17:22:08,413  INFO [main] log4j:26 - Expected India – Bangalore
+2019-09-26 17:22:08,718  INFO [main] log4j:26 - Actual India – Bangalore
+2019-09-26 17:22:08,722  INFO [main] log4j:26 - Expected India – Chennai
+2019-09-26 17:22:09,100  INFO [main] log4j:26 - Actual India – Chennai
+2019-09-26 17:22:09,100  INFO [main] log4j:26 - Expected info@atmecs.com
+2019-09-26 17:22:09,396  INFO [main] log4j:26 - Actual info@atmecs.com
+2019-09-26 17:22:09,400  INFO [main] log4j:26 - Expected info@atmecs.com
+2019-09-26 17:22:09,769  INFO [main] log4j:26 - Actual info@atmecs.com
+2019-09-26 17:22:09,769  INFO [main] log4j:26 - Element verified
+2019-09-26 17:22:11,143  INFO [main] log4j:26 - Expected Sitemap
+2019-09-26 17:22:11,429  INFO [main] log4j:26 - Actual Sitemap
+2019-09-26 17:22:11,429  INFO [main] log4j:26 - Expected Services
+2019-09-26 17:22:11,709  INFO [main] log4j:26 - Actual Services
+2019-09-26 17:22:11,709  INFO [main] log4j:26 - Expected Careers
+2019-09-26 17:22:11,988  INFO [main] log4j:26 - Actual Careers
+2019-09-26 17:22:11,988  INFO [main] log4j:26 - Expected Contact Us
+2019-09-26 17:22:12,252  INFO [main] log4j:26 - Actual Contact Us
+2019-09-26 17:22:12,252  INFO [main] log4j:26 - Title verified
+2019-09-26 17:22:12,252  INFO [main] log4j:26 - Expected Home
+2019-09-26 17:22:12,521  INFO [main] log4j:26 - Actual Home
+2019-09-26 17:22:12,521  INFO [main] log4j:26 - Expected About Us
+2019-09-26 17:22:12,789  INFO [main] log4j:26 - Actual About Us
+2019-09-26 17:22:12,793  INFO [main] log4j:26 - Expected Services
+2019-09-26 17:22:13,069  INFO [main] log4j:26 - Actual Services
+2019-09-26 17:22:13,069  INFO [main] log4j:26 - Expected Partners
+2019-09-26 17:22:13,361  INFO [main] log4j:26 - Actual Partners
+2019-09-26 17:22:13,363  INFO [main] log4j:26 - Expected Case Studies old
+2019-09-26 17:22:13,633  INFO [main] log4j:26 - Actual Case Studies old
+2019-09-26 17:22:13,633  INFO [main] log4j:26 - Expected News
+2019-09-26 17:22:13,897  INFO [main] log4j:26 - Actual News
+2019-09-26 17:22:13,897  INFO [main] log4j:26 - Expected Careers
+2019-09-26 17:22:14,165  INFO [main] log4j:26 - Actual Careers
+2019-09-26 17:22:14,165  INFO [main] log4j:26 - Expected Contact Us
+2019-09-26 17:22:14,437  INFO [main] log4j:26 - Actual Contact Us
+2019-09-26 17:22:14,437  INFO [main] log4j:26 - Sitemap elements verified
+2019-09-26 17:22:14,438  INFO [main] log4j:26 - Expected Artificial Intelligence / Machine Learning
+2019-09-26 17:22:14,688  INFO [main] log4j:26 - Actual Artificial Intelligence / Machine Learning
+2019-09-26 17:22:14,688  INFO [main] log4j:26 - Expected Augmented Reality / Virtual Reality
+2019-09-26 17:22:14,968  INFO [main] log4j:26 - Actual Augmented Reality / Virtual Reality
+2019-09-26 17:22:14,968  INFO [main] log4j:26 - Expected Quality Engineering
+2019-09-26 17:22:15,215  INFO [main] log4j:26 - Actual Quality Engineering
+2019-09-26 17:22:15,215  INFO [main] log4j:26 - Expected Blockchain
+2019-09-26 17:22:15,467  INFO [main] log4j:26 - Actual Blockchain
+2019-09-26 17:22:15,467  INFO [main] log4j:26 - Expected Robotic Process Automation & ChatBOTs
+2019-09-26 17:22:15,730  INFO [main] log4j:26 - Actual Robotic Process Automation & ChatBOTs
+2019-09-26 17:22:15,730  INFO [main] log4j:26 - Expected Cloud Services
+2019-09-26 17:22:15,994  INFO [main] log4j:26 - Actual Cloud Services
+2019-09-26 17:22:15,994  INFO [main] log4j:26 - Expected Enterprise Analytics
+2019-09-26 17:22:16,262  INFO [main] log4j:26 - Actual Enterprise Analytics
+2019-09-26 17:22:16,262  INFO [main] log4j:26 - Expected Internet of Things
+2019-09-26 17:22:16,518  INFO [main] log4j:26 - Actual Internet of Things
+2019-09-26 17:22:16,519  INFO [main] log4j:26 - Expected Mobile Computing
+2019-09-26 17:22:16,768  INFO [main] log4j:26 - Actual Mobile Computing
+2019-09-26 17:22:16,768  INFO [main] log4j:26 - Expected Product Engineering
+2019-09-26 17:22:17,016  INFO [main] log4j:26 - Actual Product Engineering
+2019-09-26 17:22:17,016  INFO [main] log4j:26 - Services elements verified
+2019-09-26 17:22:17,016  INFO [main] log4j:26 - Expected Automation Engineer
+2019-09-26 17:22:17,296  INFO [main] log4j:26 - Actual Automation Engineer
+2019-09-26 17:22:17,296  INFO [main] log4j:26 - Expected DevOps Engineer
+2019-09-26 17:22:17,564  INFO [main] log4j:26 - Actual DevOps Engineer
+2019-09-26 17:22:17,564  INFO [main] log4j:26 - Expected Senior .NET Engineer
+2019-09-26 17:22:17,821  INFO [main] log4j:26 - Actual Senior .NET Engineer
+2019-09-26 17:22:17,821  INFO [main] log4j:26 - Expected Senior Java/J2EE Engineer
+2019-09-26 17:22:18,150  INFO [main] log4j:26 - Actual Senior Java/J2EE Engineer
+2019-09-26 17:22:18,150  INFO [main] log4j:26 - Element verified
+2019-09-26 17:22:18,150  INFO [main] log4j:26 - Expected US Headquarters
+2019-09-26 17:22:18,490  INFO [main] log4j:26 - Actual US Headquarters
+2019-09-26 17:22:18,490  INFO [main] log4j:26 - Expected US R&D Center
+2019-09-26 17:22:18,778  INFO [main] log4j:26 - Actual US R&D Center
+2019-09-26 17:22:18,778  INFO [main] log4j:26 - Expected India – Hyderabad
+2019-09-26 17:22:19,100  INFO [main] log4j:26 - Actual India – Hyderabad
+2019-09-26 17:22:19,104  INFO [main] log4j:26 - Expected India – Bangalore
+2019-09-26 17:22:19,444  INFO [main] log4j:26 - Actual India – Bangalore
+2019-09-26 17:22:19,444  INFO [main] log4j:26 - Expected India – Chennai
+2019-09-26 17:22:19,836  INFO [main] log4j:26 - Actual India – Chennai
+2019-09-26 17:22:19,840  INFO [main] log4j:26 - Expected info@atmecs.com
+2019-09-26 17:22:20,212  INFO [main] log4j:26 - Actual info@atmecs.com
+2019-09-26 17:22:20,212  INFO [main] log4j:26 - Expected info@atmecs.com
+2019-09-26 17:22:20,596  INFO [main] log4j:26 - Actual info@atmecs.com
+2019-09-26 17:22:20,596  INFO [main] log4j:26 - Element verified
+2019-09-26 17:22:22,092  INFO [main] log4j:26 - Expected Sitemap
+2019-09-26 17:22:22,402  INFO [main] log4j:26 - Actual Sitemap
+2019-09-26 17:22:22,402  INFO [main] log4j:26 - Expected Services
+2019-09-26 17:22:22,706  INFO [main] log4j:26 - Actual Services
+2019-09-26 17:22:22,706  INFO [main] log4j:26 - Expected Careers
+2019-09-26 17:22:23,006  INFO [main] log4j:26 - Actual Careers
+2019-09-26 17:22:23,006  INFO [main] log4j:26 - Expected Contact Us
+2019-09-26 17:23:21,150  INFO [main] log4j:26 - Expected Sitemap
+2019-09-26 17:23:21,532  INFO [main] log4j:26 - Actual Sitemap
+2019-09-26 17:23:21,532  INFO [main] log4j:26 - Expected Services
+2019-09-26 17:23:21,896  INFO [main] log4j:26 - Actual Services
+2019-09-26 17:23:21,896  INFO [main] log4j:26 - Expected Careers
+2019-09-26 17:23:22,236  INFO [main] log4j:26 - Actual Careers
+2019-09-26 17:23:22,236  INFO [main] log4j:26 - Expected Contact Us
+2019-09-26 17:23:22,609  INFO [main] log4j:26 - Actual Contact Us
+2019-09-26 17:23:22,613  INFO [main] log4j:26 - Title verified
+2019-09-26 17:23:22,613  INFO [main] log4j:26 - Expected Home
+2019-09-26 17:23:23,009  INFO [main] log4j:26 - Actual Home
+2019-09-26 17:23:23,013  INFO [main] log4j:26 - Expected About Us
+2019-09-26 17:23:23,389  INFO [main] log4j:26 - Actual About Us
+2019-09-26 17:23:23,390  INFO [main] log4j:26 - Expected Services
+2019-09-26 17:23:23,791  INFO [main] log4j:26 - Actual Services
+2019-09-26 17:23:23,791  INFO [main] log4j:26 - Expected Partners
+2019-09-26 17:23:24,179  INFO [main] log4j:26 - Actual Partners
+2019-09-26 17:23:24,179  INFO [main] log4j:26 - Expected Case Studies old
+2019-09-26 17:23:24,519  INFO [main] log4j:26 - Actual Case Studies old
+2019-09-26 17:23:24,522  INFO [main] log4j:26 - Expected News
+2019-09-26 17:23:24,839  INFO [main] log4j:26 - Actual News
+2019-09-26 17:23:24,843  INFO [main] log4j:26 - Expected Careers
+2019-09-26 17:23:25,439  INFO [main] log4j:26 - Actual Careers
+2019-09-26 17:23:25,439  INFO [main] log4j:26 - Expected Contact Us
+2019-09-26 17:23:26,123  INFO [main] log4j:26 - Actual Contact Us
+2019-09-26 17:23:26,127  INFO [main] log4j:26 - Sitemap elements verified
+2019-09-26 17:23:26,127  INFO [main] log4j:26 - Expected Artificial Intelligence / Machine Learning
+2019-09-26 17:23:26,736  INFO [main] log4j:26 - Actual Artificial Intelligence / Machine Learning
+2019-09-26 17:23:26,736  INFO [main] log4j:26 - Expected Augmented Reality / Virtual Reality
+2019-09-26 17:23:27,440  INFO [main] log4j:26 - Actual Augmented Reality / Virtual Reality
+2019-09-26 17:23:27,440  INFO [main] log4j:26 - Expected Quality Engineering
+2019-09-26 17:23:28,017  INFO [main] log4j:26 - Actual Quality Engineering
+2019-09-26 17:23:28,017  INFO [main] log4j:26 - Expected Blockchain
+2019-09-26 17:23:28,373  INFO [main] log4j:26 - Actual Blockchain
+2019-09-26 17:23:28,373  INFO [main] log4j:26 - Expected Robotic Process Automation & ChatBOTs
+2019-09-26 17:23:28,721  INFO [main] log4j:26 - Actual Robotic Process Automation & ChatBOTs
+2019-09-26 17:23:28,722  INFO [main] log4j:26 - Expected Cloud Services
+2019-09-26 17:23:29,023  INFO [main] log4j:26 - Actual Cloud Services
+2019-09-26 17:23:29,023  INFO [main] log4j:26 - Expected Enterprise Analytics
+2019-09-26 17:23:46,612  INFO [main] log4j:26 - Expected Sitemap
+2019-09-26 17:23:47,972  INFO [main] log4j:26 - Actual Sitemap
+2019-09-26 17:23:47,972  INFO [main] log4j:26 - Expected Services
+2019-09-26 17:23:48,429  INFO [main] log4j:26 - Actual Services
+2019-09-26 17:23:48,429  INFO [main] log4j:26 - Expected Careers
+2019-09-26 17:23:48,761  INFO [main] log4j:26 - Actual Careers
+2019-09-26 17:23:48,765  INFO [main] log4j:26 - Expected Contact Us
+2019-09-26 17:23:49,081  INFO [main] log4j:26 - Actual Contact Us
+2019-09-26 17:23:49,086  INFO [main] log4j:26 - Title verified
+2019-09-26 17:23:49,086  INFO [main] log4j:26 - Expected Home
+2019-09-26 17:23:49,406  INFO [main] log4j:26 - Actual Home
+2019-09-26 17:23:49,406  INFO [main] log4j:26 - Expected About Us
+2019-09-26 17:23:49,710  INFO [main] log4j:26 - Actual About Us
+2019-09-26 17:23:49,710  INFO [main] log4j:26 - Expected Services
+2019-09-26 17:23:50,030  INFO [main] log4j:26 - Actual Services
+2019-09-26 17:23:50,030  INFO [main] log4j:26 - Expected Partners
+2019-09-26 17:23:50,362  INFO [main] log4j:26 - Actual Partners
+2019-09-26 17:23:50,364  INFO [main] log4j:26 - Expected Case Studies old
+2019-09-26 17:23:50,693  INFO [main] log4j:26 - Actual Case Studies old
+2019-09-26 17:23:50,693  INFO [main] log4j:26 - Expected News
+2019-09-26 17:23:51,017  INFO [main] log4j:26 - Actual News
+2019-09-26 17:23:51,017  INFO [main] log4j:26 - Expected Careers
+2019-09-26 17:23:51,341  INFO [main] log4j:26 - Actual Careers
+2019-09-26 17:23:51,341  INFO [main] log4j:26 - Expected Contact Us
+2019-09-26 17:23:51,673  INFO [main] log4j:26 - Actual Contact Us
+2019-09-26 17:23:51,673  INFO [main] log4j:26 - Sitemap elements verified
+2019-09-26 17:23:51,673  INFO [main] log4j:26 - Expected Artificial Intelligence / Machine Learning
+2019-09-26 17:23:52,010  INFO [main] log4j:26 - Actual Artificial Intelligence / Machine Learning
+2019-09-26 17:23:52,010  INFO [main] log4j:26 - Expected Augmented Reality / Virtual Reality
+2019-09-26 17:23:52,698  INFO [main] log4j:26 - Actual Augmented Reality / Virtual Reality
+2019-09-26 17:23:52,698  INFO [main] log4j:26 - Expected Quality Engineering
+2019-09-26 17:23:53,121  INFO [main] log4j:26 - Actual Quality Engineering
+2019-09-26 17:23:53,121  INFO [main] log4j:26 - Expected Blockchain
+2019-09-26 17:23:53,493  INFO [main] log4j:26 - Actual Blockchain
+2019-09-26 17:23:53,497  INFO [main] log4j:26 - Expected Robotic Process Automation & ChatBOTs
+2019-09-26 17:23:53,841  INFO [main] log4j:26 - Actual Robotic Process Automation & ChatBOTs
+2019-09-26 17:23:53,842  INFO [main] log4j:26 - Expected Cloud Services
+2019-09-26 17:23:54,176  INFO [main] log4j:26 - Actual Cloud Services
+2019-09-26 17:23:54,176  INFO [main] log4j:26 - Expected Enterprise Analytics
+2019-09-26 17:23:54,496  INFO [main] log4j:26 - Actual Enterprise Analytics
+2019-09-26 17:23:54,496  INFO [main] log4j:26 - Expected Internet of Things
+2019-09-26 17:24:13,972  INFO [main] log4j:26 - Expected Sitemap
+2019-09-26 17:24:14,479  INFO [main] log4j:26 - Actual Sitemap
+2019-09-26 17:24:14,479  INFO [main] log4j:26 - Expected Services
+2019-09-26 17:24:14,975  INFO [main] log4j:26 - Actual Services
+2019-09-26 17:24:14,975  INFO [main] log4j:26 - Expected Careers
+2019-09-26 17:24:15,435  INFO [main] log4j:26 - Actual Careers
+2019-09-26 17:24:15,435  INFO [main] log4j:26 - Expected Contact Us
+2019-09-26 17:24:15,851  INFO [main] log4j:26 - Actual Contact Us
+2019-09-26 17:24:15,855  INFO [main] log4j:26 - Title verified
+2019-09-26 17:24:15,855  INFO [main] log4j:26 - Expected Home
+2019-09-26 17:24:16,383  INFO [main] log4j:26 - Actual Home
+2019-09-26 17:24:16,383  INFO [main] log4j:26 - Expected About Us
+2019-09-26 17:24:16,851  INFO [main] log4j:26 - Actual About Us
+2019-09-26 17:24:16,851  INFO [main] log4j:26 - Expected Services
+2019-09-26 17:24:17,255  INFO [main] log4j:26 - Actual Services
+2019-09-26 17:24:17,255  INFO [main] log4j:26 - Expected Partners
+2019-09-26 17:24:17,683  INFO [main] log4j:26 - Actual Partners
+2019-09-26 17:24:17,683  INFO [main] log4j:26 - Expected Case Studies old
+2019-09-26 17:24:18,085  INFO [main] log4j:26 - Actual Case Studies old
+2019-09-26 17:24:18,089  INFO [main] log4j:26 - Expected News
+2019-09-26 17:24:18,533  INFO [main] log4j:26 - Actual News
+2019-09-26 17:24:18,533  INFO [main] log4j:26 - Expected Careers
+2019-09-26 17:24:19,009  INFO [main] log4j:26 - Actual Careers
+2019-09-26 17:24:19,009  INFO [main] log4j:26 - Expected Contact Us
+2019-09-26 17:24:19,467  INFO [main] log4j:26 - Actual Contact Us
+2019-09-26 17:24:19,467  INFO [main] log4j:26 - Sitemap elements verified
+2019-09-26 17:24:19,467  INFO [main] log4j:26 - Expected Artificial Intelligence / Machine Learning
+2019-09-26 17:24:20,075  INFO [main] log4j:26 - Actual Artificial Intelligence / Machine Learning
+2019-09-26 17:24:20,075  INFO [main] log4j:26 - Expected Augmented Reality / Virtual Reality
+2019-09-26 17:24:20,693  INFO [main] log4j:26 - Actual Augmented Reality / Virtual Reality
+2019-09-26 17:24:20,705  INFO [main] log4j:26 - Expected Quality Engineering
+2019-09-26 17:24:21,717  INFO [main] log4j:26 - Actual Quality Engineering
+2019-09-26 17:24:21,717  INFO [main] log4j:26 - Expected Blockchain
+2019-09-26 17:24:22,202  INFO [main] log4j:26 - Actual Blockchain
+2019-09-26 17:24:22,202  INFO [main] log4j:26 - Expected Robotic Process Automation & ChatBOTs
+2019-09-26 17:24:22,714  INFO [main] log4j:26 - Actual Robotic Process Automation & ChatBOTs
+2019-09-26 17:24:22,714  INFO [main] log4j:26 - Expected Cloud Services
+2019-09-26 17:24:23,251  INFO [main] log4j:26 - Actual Cloud Services
+2019-09-26 17:24:23,251  INFO [main] log4j:26 - Expected Enterprise Analytics
+2019-09-26 17:24:23,703  INFO [main] log4j:26 - Actual Enterprise Analytics
+2019-09-26 17:24:23,703  INFO [main] log4j:26 - Expected Internet of Things
+2019-09-26 17:24:24,043  INFO [main] log4j:26 - Actual Internet of Things
+2019-09-26 17:24:24,046  INFO [main] log4j:26 - Expected Mobile Computing
+2019-09-26 17:24:24,380  INFO [main] log4j:26 - Actual Mobile Computing
+2019-09-26 17:24:24,380  INFO [main] log4j:26 - Expected Product Engineering
+2019-09-26 17:24:24,708  INFO [main] log4j:26 - Actual Product Engineering
+2019-09-26 17:24:24,708  INFO [main] log4j:26 - Services elements verified
+2019-09-26 17:24:24,708  INFO [main] log4j:26 - Expected Automation Engineer
+2019-09-26 17:24:25,056  INFO [main] log4j:26 - Actual Automation Engineer
+2019-09-26 17:24:25,056  INFO [main] log4j:26 - Expected DevOps Engineer
+2019-09-26 17:24:25,419  INFO [main] log4j:26 - Actual DevOps Engineer
+2019-09-26 17:24:25,419  INFO [main] log4j:26 - Expected Senior .NET Engineer
+2019-09-26 17:24:25,743  INFO [main] log4j:26 - Actual Senior .NET Engineer
+2019-09-26 17:24:25,743  INFO [main] log4j:26 - Expected Senior Java/J2EE Engineer
+2019-09-26 17:24:26,059  INFO [main] log4j:26 - Actual Senior Java/J2EE Engineer
+2019-09-26 17:24:26,059  INFO [main] log4j:26 - Element verified
+2019-09-26 17:24:26,060  INFO [main] log4j:26 - Expected US Headquarters
+2019-09-26 17:24:26,425  INFO [main] log4j:26 - Actual US Headquarters
+2019-09-26 17:24:26,425  INFO [main] log4j:26 - Expected US R&D Center
+2019-09-26 17:24:26,729  INFO [main] log4j:26 - Actual US R&D Center
+2019-09-26 17:24:26,729  INFO [main] log4j:26 - Expected India – Hyderabad
+2019-09-26 17:24:27,085  INFO [main] log4j:26 - Actual India – Hyderabad
+2019-09-26 17:24:27,086  INFO [main] log4j:26 - Expected India – Bangalore
+2019-09-26 17:24:27,456  INFO [main] log4j:26 - Actual India – Bangalore
+2019-09-26 17:24:27,460  INFO [main] log4j:26 - Expected India – Chennai
+2019-09-26 17:24:27,868  INFO [main] log4j:26 - Actual India – Chennai
+2019-09-26 17:24:27,872  INFO [main] log4j:26 - Expected info@atmecs.com
+2019-09-26 17:24:28,208  INFO [main] log4j:26 - Actual info@atmecs.com
+2019-09-26 17:24:28,212  INFO [main] log4j:26 - Expected info@atmecs.com
+2019-09-26 17:24:28,510  INFO [main] log4j:26 - Actual info@atmecs.com
+2019-09-26 17:24:28,510  INFO [main] log4j:26 - Element verified
+2019-09-26 17:24:29,909  INFO [main] log4j:26 - Expected Sitemap
+2019-09-26 17:24:30,215  INFO [main] log4j:26 - Actual Sitemap
+2019-09-26 17:24:30,215  INFO [main] log4j:26 - Expected Services
+2019-09-26 17:24:30,491  INFO [main] log4j:26 - Actual Services
+2019-09-26 17:24:30,491  INFO [main] log4j:26 - Expected Careers
+2019-09-26 17:24:30,775  INFO [main] log4j:26 - Actual Careers
+2019-09-26 17:24:30,775  INFO [main] log4j:26 - Expected Contact Us
+2019-09-26 17:24:31,074  INFO [main] log4j:26 - Actual Contact Us
+2019-09-26 17:24:31,074  INFO [main] log4j:26 - Title verified
+2019-09-26 17:24:31,076  INFO [main] log4j:26 - Expected Home
+2019-09-26 17:24:31,350  INFO [main] log4j:26 - Actual Home
+2019-09-26 17:24:31,350  INFO [main] log4j:26 - Expected About Us
+2019-09-26 17:24:31,622  INFO [main] log4j:26 - Actual About Us
+2019-09-26 17:24:31,622  INFO [main] log4j:26 - Expected Services
+2019-09-26 17:24:31,910  INFO [main] log4j:26 - Actual Services
+2019-09-26 17:24:31,910  INFO [main] log4j:26 - Expected Partners
+2019-09-26 17:24:32,190  INFO [main] log4j:26 - Actual Partners
+2019-09-26 17:24:32,190  INFO [main] log4j:26 - Expected Case Studies old
+2019-09-26 17:24:32,464  INFO [main] log4j:26 - Actual Case Studies old
+2019-09-26 17:24:32,464  INFO [main] log4j:26 - Expected News
+2019-09-26 17:24:32,744  INFO [main] log4j:26 - Actual News
+2019-09-26 17:24:32,744  INFO [main] log4j:26 - Expected Careers
+2019-09-26 17:24:33,036  INFO [main] log4j:26 - Actual Careers
+2019-09-26 17:24:33,036  INFO [main] log4j:26 - Expected Contact Us
+2019-09-26 17:24:33,392  INFO [main] log4j:26 - Actual Contact Us
+2019-09-26 17:24:33,392  INFO [main] log4j:26 - Sitemap elements verified
+2019-09-26 17:24:33,394  INFO [main] log4j:26 - Expected Artificial Intelligence / Machine Learning
+2019-09-26 17:24:33,668  INFO [main] log4j:26 - Actual Artificial Intelligence / Machine Learning
+2019-09-26 17:24:33,672  INFO [main] log4j:26 - Expected Augmented Reality / Virtual Reality
+2019-09-26 17:24:33,955  INFO [main] log4j:26 - Actual Augmented Reality / Virtual Reality
+2019-09-26 17:24:33,955  INFO [main] log4j:26 - Expected Quality Engineering
+2019-09-26 17:24:34,247  INFO [main] log4j:26 - Actual Quality Engineering
+2019-09-26 17:24:34,247  INFO [main] log4j:26 - Expected Blockchain
+2019-09-26 17:24:34,523  INFO [main] log4j:26 - Actual Blockchain
+2019-09-26 17:24:34,523  INFO [main] log4j:26 - Expected Robotic Process Automation & ChatBOTs
+2019-09-26 17:24:34,807  INFO [main] log4j:26 - Actual Robotic Process Automation & ChatBOTs
+2019-09-26 17:24:34,807  INFO [main] log4j:26 - Expected Cloud Services
+2019-09-26 17:24:35,086  INFO [main] log4j:26 - Actual Cloud Services
+2019-09-26 17:24:35,086  INFO [main] log4j:26 - Expected Enterprise Analytics
+2019-09-26 17:24:35,358  INFO [main] log4j:26 - Actual Enterprise Analytics
+2019-09-26 17:24:35,358  INFO [main] log4j:26 - Expected Internet of Things
+2019-09-26 17:24:35,642  INFO [main] log4j:26 - Actual Internet of Things
+2019-09-26 17:24:35,642  INFO [main] log4j:26 - Expected Mobile Computing
+2019-09-26 17:24:35,901  INFO [main] log4j:26 - Actual Mobile Computing
+2019-09-26 17:24:35,905  INFO [main] log4j:26 - Expected Product Engineering
+2019-09-26 17:24:36,309  INFO [main] log4j:26 - Actual Product Engineering
+2019-09-26 17:24:36,309  INFO [main] log4j:26 - Services elements verified
+2019-09-26 17:24:36,309  INFO [main] log4j:26 - Expected Automation Engineer
+2019-09-26 17:24:36,757  INFO [main] log4j:26 - Actual Automation Engineer
+2019-09-26 17:24:36,761  INFO [main] log4j:26 - Expected DevOps Engineer
+2019-09-26 17:24:37,205  INFO [main] log4j:26 - Actual DevOps Engineer
+2019-09-26 17:24:37,209  INFO [main] log4j:26 - Expected Senior .NET Engineer
+2019-09-26 17:24:37,553  INFO [main] log4j:26 - Actual Senior .NET Engineer
+2019-09-26 17:24:37,553  INFO [main] log4j:26 - Expected Senior Java/J2EE Engineer
+2019-09-26 17:24:38,013  INFO [main] log4j:26 - Actual Senior Java/J2EE Engineer
+2019-09-26 17:24:38,017  INFO [main] log4j:26 - Element verified
+2019-09-26 17:24:38,017  INFO [main] log4j:26 - Expected US Headquarters
+2019-09-26 17:24:38,438  INFO [main] log4j:26 - Actual US Headquarters
+2019-09-26 17:24:38,438  INFO [main] log4j:26 - Expected US R&D Center
+2019-09-26 17:24:38,770  INFO [main] log4j:26 - Actual US R&D Center
+2019-09-26 17:24:38,774  INFO [main] log4j:26 - Expected India – Hyderabad
+2019-09-26 17:24:39,078  INFO [main] log4j:26 - Actual India – Hyderabad
+2019-09-26 17:24:39,082  INFO [main] log4j:26 - Expected India – Bangalore
+2019-09-26 17:24:39,508  INFO [main] log4j:26 - Actual India – Bangalore
+2019-09-26 17:24:39,508  INFO [main] log4j:26 - Expected India – Chennai
+2019-09-26 17:24:39,828  INFO [main] log4j:26 - Actual India – Chennai
+2019-09-26 17:24:39,828  INFO [main] log4j:26 - Expected info@atmecs.com
+2019-09-26 17:24:40,188  INFO [main] log4j:26 - Actual info@atmecs.com
+2019-09-26 17:24:40,188  INFO [main] log4j:26 - Expected info@atmecs.com
+2019-09-26 17:24:40,462  INFO [main] log4j:26 - Actual info@atmecs.com
+2019-09-26 17:24:40,462  INFO [main] log4j:26 - Element verified
+2019-09-26 17:24:42,981  INFO [main] log4j:26 - Expected Sitemap
+2019-09-26 17:24:43,267  INFO [main] log4j:26 - Actual Sitemap
+2019-09-26 17:24:43,267  INFO [main] log4j:26 - Expected Services
+2019-09-26 17:24:43,527  INFO [main] log4j:26 - Actual Services
+2019-09-26 17:24:43,527  INFO [main] log4j:26 - Expected Careers
+2019-09-26 17:25:06,908  INFO [main] log4j:26 - Expected Sitemap
+2019-09-26 17:25:07,265  INFO [main] log4j:26 - Actual Sitemap
+2019-09-26 17:25:07,265  INFO [main] log4j:26 - Expected Services
+2019-09-26 17:25:07,609  INFO [main] log4j:26 - Actual Services
+2019-09-26 17:25:07,609  INFO [main] log4j:26 - Expected Careers
+2019-09-26 17:39:15,631  INFO [main] log4j:26 - Expected Sitemap
+2019-09-26 17:39:15,930  INFO [main] log4j:26 - Actual Sitemap
+2019-09-26 17:39:15,930  INFO [main] log4j:26 - Expected Services
+2019-09-26 17:39:16,206  INFO [main] log4j:26 - Actual Services
+2019-09-26 17:39:16,206  INFO [main] log4j:26 - Expected Careers
+2019-09-26 17:39:16,642  INFO [main] log4j:26 - Actual Careers
+2019-09-26 17:39:16,645  INFO [main] log4j:26 - Expected Contact Us
+2019-09-26 17:39:17,194  INFO [main] log4j:26 - Actual Contact Us
+2019-09-26 17:39:17,194  INFO [main] log4j:26 - Title verified
+2019-09-26 17:39:17,198  INFO [main] log4j:26 - Expected Home
+2019-09-26 17:39:17,510  INFO [main] log4j:26 - Actual Home
+2019-09-26 17:39:17,514  INFO [main] log4j:26 - Expected About Us
+2019-09-26 17:39:18,002  INFO [main] log4j:26 - Actual About Us
+2019-09-26 17:39:18,003  INFO [main] log4j:26 - Expected Services
+2019-09-26 17:39:18,501  INFO [main] log4j:26 - Actual Services
+2019-09-26 17:39:18,501  INFO [main] log4j:26 - Expected Partners
+2019-09-26 17:39:18,917  INFO [main] log4j:26 - Actual Partners
+2019-09-26 17:39:18,917  INFO [main] log4j:26 - Expected Case Studies old
+2019-09-26 17:39:19,329  INFO [main] log4j:26 - Actual Case Studies old
+2019-09-26 17:39:19,333  INFO [main] log4j:26 - Expected News
+2019-09-26 17:39:19,737  INFO [main] log4j:26 - Actual News
+2019-09-26 17:39:19,741  INFO [main] log4j:26 - Expected Careers
+2019-09-26 17:39:20,296  INFO [main] log4j:26 - Actual Careers
+2019-09-26 17:39:20,296  INFO [main] log4j:26 - Expected Contact Us
+2019-09-26 17:39:20,856  INFO [main] log4j:26 - Actual Contact Us
+2019-09-26 17:39:20,860  INFO [main] log4j:26 - Sitemap elements verified
+2019-09-26 17:39:20,860  INFO [main] log4j:26 - Expected Artificial Intelligence / Machine Learning
+2019-09-26 17:39:21,364  INFO [main] log4j:26 - Actual Artificial Intelligence / Machine Learning
+2019-09-26 17:39:21,364  INFO [main] log4j:26 - Expected Augmented Reality / Virtual Reality
+2019-09-26 17:39:22,068  INFO [main] log4j:26 - Actual Augmented Reality / Virtual Reality
+2019-09-26 17:39:22,072  INFO [main] log4j:26 - Expected Quality Engineering
+2019-09-26 17:39:22,453  INFO [main] log4j:26 - Actual Quality Engineering
+2019-09-26 17:39:22,453  INFO [main] log4j:26 - Expected Blockchain
+2019-09-26 17:39:22,773  INFO [main] log4j:26 - Actual Blockchain
+2019-09-26 17:39:22,773  INFO [main] log4j:26 - Expected Robotic Process Automation & ChatBOTs
+2019-09-26 17:39:23,097  INFO [main] log4j:26 - Actual Robotic Process Automation & ChatBOTs
+2019-09-26 17:39:23,100  INFO [main] log4j:26 - Expected Cloud Services
+2019-09-26 17:39:23,390  INFO [main] log4j:26 - Actual Cloud Services
+2019-09-26 17:39:23,390  INFO [main] log4j:26 - Expected Enterprise Analytics
+2019-09-26 17:39:23,670  INFO [main] log4j:26 - Actual Enterprise Analytics
+2019-09-26 17:39:23,670  INFO [main] log4j:26 - Expected Internet of Things
+2019-09-26 17:39:24,082  INFO [main] log4j:26 - Actual Internet of Things
+2019-09-26 17:39:24,086  INFO [main] log4j:26 - Expected Mobile Computing
+2019-09-26 17:39:24,562  INFO [main] log4j:26 - Actual Mobile Computing
+2019-09-26 17:39:24,565  INFO [main] log4j:26 - Expected Product Engineering
+2019-09-26 17:39:24,895  INFO [main] log4j:26 - Actual Product Engineering
+2019-09-26 17:39:24,895  INFO [main] log4j:26 - Services elements verified
+2019-09-26 17:39:24,899  INFO [main] log4j:26 - Expected Automation Engineer
+2019-09-26 17:39:25,227  INFO [main] log4j:26 - Actual Automation Engineer
+2019-09-26 17:39:25,231  INFO [main] log4j:26 - Expected DevOps Engineer
+2019-09-26 17:39:25,519  INFO [main] log4j:26 - Actual DevOps Engineer
+2019-09-26 17:39:25,523  INFO [main] log4j:26 - Expected Senior .NET Engineer
+2019-09-26 17:39:25,802  INFO [main] log4j:26 - Actual Senior .NET Engineer
+2019-09-26 17:39:25,804  INFO [main] log4j:26 - Expected Senior Java/J2EE Engineer
+2019-09-26 17:39:26,149  INFO [main] log4j:26 - Actual Senior Java/J2EE Engineer
+2019-09-26 17:39:26,149  INFO [main] log4j:26 - Element verified
+2019-09-26 17:39:26,149  INFO [main] log4j:26 - Expected US Headquarters
+2019-09-26 17:39:26,517  INFO [main] log4j:26 - Actual US Headquarters
+2019-09-26 17:39:26,521  INFO [main] log4j:26 - Expected US R&D Center
+2019-09-26 17:39:26,901  INFO [main] log4j:26 - Actual US R&D Center
+2019-09-26 17:39:26,904  INFO [main] log4j:26 - Expected India – Hyderabad
+2019-09-26 17:39:27,297  INFO [main] log4j:26 - Actual India – Hyderabad
+2019-09-26 17:39:27,297  INFO [main] log4j:26 - Expected India – Bangalore
+2019-09-26 17:39:27,593  INFO [main] log4j:26 - Actual India – Bangalore
+2019-09-26 17:39:27,597  INFO [main] log4j:26 - Expected India – Chennai
+2019-09-26 17:39:27,877  INFO [main] log4j:26 - Actual India – Chennai
+2019-09-26 17:39:27,877  INFO [main] log4j:26 - Expected info@atmecs.com
+2019-09-26 17:39:28,241  INFO [main] log4j:26 - Actual info@atmecs.com
+2019-09-26 17:39:28,245  INFO [main] log4j:26 - Expected info@atmecs.com
+2019-09-26 17:39:28,879  INFO [main] log4j:26 - Actual info@atmecs.com
+2019-09-26 17:39:28,879  INFO [main] log4j:26 - Element verified
+2019-09-26 17:39:39,716  INFO [main] log4j:26 - Expected Sitemap
+2019-09-26 17:39:40,165  INFO [main] log4j:26 - Actual Sitemap
+2019-09-26 17:39:40,165  INFO [main] log4j:26 - Expected Services
+2019-09-26 17:39:40,557  INFO [main] log4j:26 - Actual Services
+2019-09-26 17:39:40,557  INFO [main] log4j:26 - Expected Careers
+2019-09-26 17:39:40,857  INFO [main] log4j:26 - Actual Careers
+2019-09-26 17:39:40,858  INFO [main] log4j:26 - Expected Contact Us
+2019-09-26 17:39:41,160  INFO [main] log4j:26 - Actual Contact Us
+2019-09-26 17:39:41,160  INFO [main] log4j:26 - Title verified
+2019-09-26 17:39:41,162  INFO [main] log4j:26 - Expected Home
+2019-09-26 17:39:41,462  INFO [main] log4j:26 - Actual Home
+2019-09-26 17:39:41,466  INFO [main] log4j:26 - Expected About Us
+2019-09-26 17:39:41,763  INFO [main] log4j:26 - Actual About Us
+2019-09-26 17:39:41,763  INFO [main] log4j:26 - Expected Services
+2019-09-26 17:39:42,064  INFO [main] log4j:26 - Actual Services
+2019-09-26 17:39:42,065  INFO [main] log4j:26 - Expected Partners
+2019-09-26 17:39:42,390  INFO [main] log4j:26 - Actual Partners
+2019-09-26 17:39:42,390  INFO [main] log4j:26 - Expected Case Studies old
+2019-09-26 17:39:42,744  INFO [main] log4j:26 - Actual Case Studies old
+2019-09-26 17:39:42,744  INFO [main] log4j:26 - Expected News
+2019-09-26 17:39:43,059  INFO [main] log4j:26 - Actual News
+2019-09-26 17:39:43,063  INFO [main] log4j:26 - Expected Careers
+2019-09-26 17:39:43,374  INFO [main] log4j:26 - Actual Careers
+2019-09-26 17:39:43,378  INFO [main] log4j:26 - Expected Contact Us
+2019-09-26 17:39:43,684  INFO [main] log4j:26 - Actual Contact Us
+2019-09-26 17:39:43,684  INFO [main] log4j:26 - Sitemap elements verified
+2019-09-26 17:39:43,684  INFO [main] log4j:26 - Expected Artificial Intelligence / Machine Learning
+2019-09-26 17:39:43,956  INFO [main] log4j:26 - Actual Artificial Intelligence / Machine Learning
+2019-09-26 17:39:43,956  INFO [main] log4j:26 - Expected Augmented Reality / Virtual Reality
+2019-09-26 17:39:44,444  INFO [main] log4j:26 - Actual Augmented Reality / Virtual Reality
+2019-09-26 17:39:44,446  INFO [main] log4j:26 - Expected Quality Engineering
+2019-09-26 17:39:44,855  INFO [main] log4j:26 - Actual Quality Engineering
+2019-09-26 17:39:44,855  INFO [main] log4j:26 - Expected Blockchain
+2019-09-26 17:39:45,263  INFO [main] log4j:26 - Actual Blockchain
+2019-09-26 17:39:45,263  INFO [main] log4j:26 - Expected Robotic Process Automation & ChatBOTs
+2019-09-26 17:39:45,603  INFO [main] log4j:26 - Actual Robotic Process Automation & ChatBOTs
+2019-09-26 17:39:45,603  INFO [main] log4j:26 - Expected Cloud Services
+2019-09-26 17:39:45,872  INFO [main] log4j:26 - Actual Cloud Services
+2019-09-26 17:39:45,904  INFO [main] log4j:26 - Expected Enterprise Analytics
+2019-09-26 17:39:46,196  INFO [main] log4j:26 - Actual Enterprise Analytics
+2019-09-26 17:39:46,196  INFO [main] log4j:26 - Expected Internet of Things
+2019-09-26 17:39:46,648  INFO [main] log4j:26 - Actual Internet of Things
+2019-09-26 17:39:46,651  INFO [main] log4j:26 - Expected Mobile Computing
+2019-09-26 17:39:47,040  INFO [main] log4j:26 - Actual Mobile Computing
+2019-09-26 17:39:47,040  INFO [main] log4j:26 - Expected Product Engineering
+2019-09-26 17:39:47,412  INFO [main] log4j:26 - Actual Product Engineering
+2019-09-26 17:39:47,412  INFO [main] log4j:26 - Services elements verified
+2019-09-26 17:39:47,412  INFO [main] log4j:26 - Expected Automation Engineer
+2019-09-26 17:39:47,688  INFO [main] log4j:26 - Actual Automation Engineer
+2019-09-26 17:39:47,690  INFO [main] log4j:26 - Expected DevOps Engineer
+2019-09-26 17:39:48,000  INFO [main] log4j:26 - Actual DevOps Engineer
+2019-09-26 17:39:48,000  INFO [main] log4j:26 - Expected Senior .NET Engineer
+2019-09-26 17:39:48,296  INFO [main] log4j:26 - Actual Senior .NET Engineer
+2019-09-26 17:39:48,296  INFO [main] log4j:26 - Expected Senior Java/J2EE Engineer
+2019-09-26 17:39:48,644  INFO [main] log4j:26 - Actual Senior Java/J2EE Engineer
+2019-09-26 17:39:48,652  INFO [main] log4j:26 - Element verified
+2019-09-26 17:39:48,652  INFO [main] log4j:26 - Expected US Headquarters
+2019-09-26 17:39:48,968  INFO [main] log4j:26 - Actual US Headquarters
+2019-09-26 17:39:48,968  INFO [main] log4j:26 - Expected US R&D Center
+2019-09-26 17:39:49,324  INFO [main] log4j:26 - Actual US R&D Center
+2019-09-26 17:39:49,324  INFO [main] log4j:26 - Expected India – Hyderabad
+2019-09-26 17:39:49,624  INFO [main] log4j:26 - Actual India – Hyderabad
+2019-09-26 17:39:49,624  INFO [main] log4j:26 - Expected India – Bangalore
+2019-09-26 17:39:49,905  INFO [main] log4j:26 - Actual India – Bangalore
+2019-09-26 17:39:49,905  INFO [main] log4j:26 - Expected India – Chennai
+2019-09-26 17:39:50,177  INFO [main] log4j:26 - Actual India – Chennai
+2019-09-26 17:39:50,179  INFO [main] log4j:26 - Expected info@atmecs.com
+2019-09-26 17:39:50,457  INFO [main] log4j:26 - Actual info@atmecs.com
+2019-09-26 17:39:50,457  INFO [main] log4j:26 - Expected info@atmecs.com
+2019-09-26 17:39:50,701  INFO [main] log4j:26 - Actual info@atmecs.com
+2019-09-26 17:39:50,701  INFO [main] log4j:26 - Element verified
+2019-09-26 17:39:54,732  INFO [main] log4j:26 - Expected Sitemap
+2019-09-26 17:39:55,036  INFO [main] log4j:26 - Actual Sitemap
+2019-09-26 17:39:55,036  INFO [main] log4j:26 - Expected Services
+2019-09-26 17:39:55,292  INFO [main] log4j:26 - Actual Services
+2019-09-26 17:39:55,292  INFO [main] log4j:26 - Expected Careers
+2019-09-26 17:39:55,532  INFO [main] log4j:26 - Actual Careers
+2019-09-26 17:39:55,532  INFO [main] log4j:26 - Expected Contact Us
+2019-09-26 17:39:55,836  INFO [main] log4j:26 - Actual Contact Us
+2019-09-26 17:39:55,836  INFO [main] log4j:26 - Title verified
+2019-09-26 17:39:55,840  INFO [main] log4j:26 - Expected Home
+2019-09-26 17:39:56,102  INFO [main] log4j:26 - Actual Home
+2019-09-26 17:39:56,106  INFO [main] log4j:26 - Expected About Us
+2019-09-26 17:39:56,347  INFO [main] log4j:26 - Actual About Us
+2019-09-26 17:39:56,347  INFO [main] log4j:26 - Expected Services
+2019-09-26 17:39:56,588  INFO [main] log4j:26 - Actual Services
+2019-09-26 17:39:56,592  INFO [main] log4j:26 - Expected Partners
+2019-09-26 17:39:56,848  INFO [main] log4j:26 - Actual Partners
+2019-09-26 17:39:56,848  INFO [main] log4j:26 - Expected Case Studies old
+2019-09-26 17:39:57,174  INFO [main] log4j:26 - Actual Case Studies old
+2019-09-26 17:39:57,174  INFO [main] log4j:26 - Expected News
+2019-09-26 17:39:57,515  INFO [main] log4j:26 - Actual News
+2019-09-26 17:39:57,515  INFO [main] log4j:26 - Expected Careers
+2019-09-26 17:39:57,811  INFO [main] log4j:26 - Actual Careers
+2019-09-26 17:39:57,811  INFO [main] log4j:26 - Expected Contact Us
+2019-09-26 17:39:58,112  INFO [main] log4j:26 - Actual Contact Us
+2019-09-26 17:39:58,112  INFO [main] log4j:26 - Sitemap elements verified
+2019-09-26 17:39:58,114  INFO [main] log4j:26 - Expected Artificial Intelligence / Machine Learning
+2019-09-26 17:39:58,435  INFO [main] log4j:26 - Actual Artificial Intelligence / Machine Learning
+2019-09-26 17:39:58,436  INFO [main] log4j:26 - Expected Augmented Reality / Virtual Reality
+2019-09-26 17:39:58,757  INFO [main] log4j:26 - Actual Augmented Reality / Virtual Reality
+2019-09-26 17:39:58,757  INFO [main] log4j:26 - Expected Quality Engineering
+2019-09-26 17:39:59,131  INFO [main] log4j:26 - Actual Quality Engineering
+2019-09-26 17:39:59,131  INFO [main] log4j:26 - Expected Blockchain
+2019-09-26 17:39:59,519  INFO [main] log4j:26 - Actual Blockchain
+2019-09-26 17:39:59,519  INFO [main] log4j:26 - Expected Robotic Process Automation & ChatBOTs
+2019-09-26 17:39:59,839  INFO [main] log4j:26 - Actual Robotic Process Automation & ChatBOTs
+2019-09-26 17:39:59,839  INFO [main] log4j:26 - Expected Cloud Services
+2019-09-26 17:40:00,179  INFO [main] log4j:26 - Actual Cloud Services
+2019-09-26 17:40:00,180  INFO [main] log4j:26 - Expected Enterprise Analytics
+2019-09-26 17:40:00,491  INFO [main] log4j:26 - Actual Enterprise Analytics
+2019-09-26 17:40:00,491  INFO [main] log4j:26 - Expected Internet of Things
+2019-09-26 17:40:00,799  INFO [main] log4j:26 - Actual Internet of Things
+2019-09-26 17:40:00,799  INFO [main] log4j:26 - Expected Mobile Computing
+2019-09-26 17:40:01,099  INFO [main] log4j:26 - Actual Mobile Computing
+2019-09-26 17:40:01,099  INFO [main] log4j:26 - Expected Product Engineering
+2019-09-26 17:40:01,382  INFO [main] log4j:26 - Actual Product Engineering
+2019-09-26 17:40:01,382  INFO [main] log4j:26 - Services elements verified
+2019-09-26 17:40:01,384  INFO [main] log4j:26 - Expected Automation Engineer
+2019-09-26 17:40:01,673  INFO [main] log4j:26 - Actual Automation Engineer
+2019-09-26 17:40:01,673  INFO [main] log4j:26 - Expected DevOps Engineer
+2019-09-26 17:40:01,977  INFO [main] log4j:26 - Actual DevOps Engineer
+2019-09-26 17:40:01,977  INFO [main] log4j:26 - Expected Senior .NET Engineer
+2019-09-26 17:40:02,309  INFO [main] log4j:26 - Actual Senior .NET Engineer
+2019-09-26 17:40:02,309  INFO [main] log4j:26 - Expected Senior Java/J2EE Engineer
+2019-09-26 17:40:02,628  INFO [main] log4j:26 - Actual Senior Java/J2EE Engineer
+2019-09-26 17:40:02,628  INFO [main] log4j:26 - Element verified
+2019-09-26 17:40:02,630  INFO [main] log4j:26 - Expected US Headquarters
+2019-09-26 17:40:02,924  INFO [main] log4j:26 - Actual US Headquarters
+2019-09-26 17:40:02,924  INFO [main] log4j:26 - Expected US R&D Center
+2019-09-26 17:40:03,228  INFO [main] log4j:26 - Actual US R&D Center
+2019-09-26 17:40:03,228  INFO [main] log4j:26 - Expected India – Hyderabad
+2019-09-26 17:40:03,548  INFO [main] log4j:26 - Actual India – Hyderabad
+2019-09-26 17:40:03,548  INFO [main] log4j:26 - Expected India – Bangalore
+2019-09-26 17:40:03,848  INFO [main] log4j:26 - Actual India – Bangalore
+2019-09-26 17:40:03,848  INFO [main] log4j:26 - Expected India – Chennai
+2019-09-26 17:40:04,139  INFO [main] log4j:26 - Actual India – Chennai
+2019-09-26 17:40:04,139  INFO [main] log4j:26 - Expected info@atmecs.com
+2019-09-26 17:40:04,452  INFO [main] log4j:26 - Actual info@atmecs.com
+2019-09-26 17:40:04,452  INFO [main] log4j:26 - Expected info@atmecs.com
+2019-09-26 17:40:04,748  INFO [main] log4j:26 - Actual info@atmecs.com
+2019-09-26 17:40:04,748  INFO [main] log4j:26 - Element verified
+2019-09-26 17:51:31,840  INFO [main] log4j:26 - Expected Sitemap
+2019-09-26 17:51:32,501  INFO [main] log4j:26 - Actual Sitemap
+2019-09-26 17:51:32,502  INFO [main] log4j:26 - Expected Services
+2019-09-26 17:51:32,864  INFO [main] log4j:26 - Actual Services
+2019-09-26 17:51:32,865  INFO [main] log4j:26 - Expected Careers
+2019-09-26 17:51:33,213  INFO [main] log4j:26 - Actual Careers
+2019-09-26 17:51:33,214  INFO [main] log4j:26 - Expected Contact Us
+2019-09-26 17:51:33,532  INFO [main] log4j:26 - Actual Contact Us
+2019-09-26 17:51:33,536  INFO [main] log4j:26 - Title verified
+2019-09-26 17:51:33,537  INFO [main] log4j:26 - Expected Home
+2019-09-26 17:51:33,857  INFO [main] log4j:26 - Actual Home
+2019-09-26 17:51:33,858  INFO [main] log4j:26 - Expected About Us
+2019-09-26 17:51:34,170  INFO [main] log4j:26 - Actual About Us
+2019-09-26 17:51:34,171  INFO [main] log4j:26 - Expected Services
+2019-09-26 17:51:34,486  INFO [main] log4j:26 - Actual Services
+2019-09-26 17:51:34,487  INFO [main] log4j:26 - Expected Partners
+2019-09-26 17:51:34,810  INFO [main] log4j:26 - Actual Partners
+2019-09-26 17:51:34,811  INFO [main] log4j:26 - Expected Case Studies old
+2019-09-26 17:51:35,128  INFO [main] log4j:26 - Actual Case Studies old
+2019-09-26 17:51:35,129  INFO [main] log4j:26 - Expected News
+2019-09-26 17:51:35,462  INFO [main] log4j:26 - Actual News
+2019-09-26 17:51:35,463  INFO [main] log4j:26 - Expected Careers
+2019-09-26 17:51:35,788  INFO [main] log4j:26 - Actual Careers
+2019-09-26 17:51:35,788  INFO [main] log4j:26 - Expected Contact Us
+2019-09-26 17:51:36,074  INFO [main] log4j:26 - Actual Contact Us
+2019-09-26 17:51:36,074  INFO [main] log4j:26 - Sitemap elements verified
+2019-09-26 17:51:36,075  INFO [main] log4j:26 - Expected Artificial Intelligence / Machine Learning
+2019-09-26 17:51:36,382  INFO [main] log4j:26 - Actual Artificial Intelligence / Machine Learning
+2019-09-26 17:51:36,382  INFO [main] log4j:26 - Expected Augmented Reality / Virtual Reality
+2019-09-26 17:51:36,663  INFO [main] log4j:26 - Actual Augmented Reality / Virtual Reality
+2019-09-26 17:51:36,664  INFO [main] log4j:26 - Expected Quality Engineering
+2019-09-26 17:51:36,972  INFO [main] log4j:26 - Actual Quality Engineering
+2019-09-26 17:51:36,973  INFO [main] log4j:26 - Expected Blockchain
+2019-09-26 17:51:37,271  INFO [main] log4j:26 - Actual Blockchain
+2019-09-26 17:51:37,272  INFO [main] log4j:26 - Expected Robotic Process Automation & ChatBOTs
+2019-09-26 17:51:37,585  INFO [main] log4j:26 - Actual Robotic Process Automation & ChatBOTs
+2019-09-26 17:51:37,586  INFO [main] log4j:26 - Expected Cloud Services
+2019-09-26 17:51:37,896  INFO [main] log4j:26 - Actual Cloud Services
+2019-09-26 17:51:37,897  INFO [main] log4j:26 - Expected Enterprise Analytics
+2019-09-26 17:51:38,197  INFO [main] log4j:26 - Actual Enterprise Analytics
+2019-09-26 17:51:38,198  INFO [main] log4j:26 - Expected Internet of Things
+2019-09-26 17:51:38,518  INFO [main] log4j:26 - Actual Internet of Things
+2019-09-26 17:51:38,519  INFO [main] log4j:26 - Expected Mobile Computing
+2019-09-26 17:51:38,845  INFO [main] log4j:26 - Actual Mobile Computing
+2019-09-26 17:51:38,846  INFO [main] log4j:26 - Expected Product Engineering
+2019-09-26 17:51:39,154  INFO [main] log4j:26 - Actual Product Engineering
+2019-09-26 17:51:39,154  INFO [main] log4j:26 - Services elements verified
+2019-09-26 17:51:39,155  INFO [main] log4j:26 - Expected Automation Engineer
+2019-09-26 17:51:39,471  INFO [main] log4j:26 - Actual Automation Engineer
+2019-09-26 17:51:39,472  INFO [main] log4j:26 - Expected DevOps Engineer
+2019-09-26 17:51:39,784  INFO [main] log4j:26 - Actual DevOps Engineer
+2019-09-26 17:51:39,785  INFO [main] log4j:26 - Expected Senior .NET Engineer
+2019-09-26 17:51:40,118  INFO [main] log4j:26 - Actual Senior .NET Engineer
+2019-09-26 17:51:40,119  INFO [main] log4j:26 - Expected Senior Java/J2EE Engineer
+2019-09-26 17:51:40,433  INFO [main] log4j:26 - Actual Senior Java/J2EE Engineer
+2019-09-26 17:51:40,434  INFO [main] log4j:26 - Element verified
+2019-09-26 17:51:40,434  INFO [main] log4j:26 - Expected US Headquarters
+2019-09-26 17:51:40,740  INFO [main] log4j:26 - Actual US Headquarters
+2019-09-26 17:51:40,741  INFO [main] log4j:26 - Expected US R&D Center
+2019-09-26 17:51:41,041  INFO [main] log4j:26 - Actual US R&D Center
+2019-09-26 17:51:41,042  INFO [main] log4j:26 - Expected India – Hyderabad
+2019-09-26 17:51:41,359  INFO [main] log4j:26 - Actual India – Hyderabad
+2019-09-26 17:51:41,360  INFO [main] log4j:26 - Expected India – Bangalore
+2019-09-26 17:51:41,670  INFO [main] log4j:26 - Actual India – Bangalore
+2019-09-26 17:51:41,671  INFO [main] log4j:26 - Expected India – Chennai
+2019-09-26 17:51:41,987  INFO [main] log4j:26 - Actual India – Chennai
+2019-09-26 17:51:41,987  INFO [main] log4j:26 - Expected info@atmecs.com
+2019-09-26 17:51:42,294  INFO [main] log4j:26 - Actual info@atmecs.com
+2019-09-26 17:51:42,295  INFO [main] log4j:26 - Expected info@atmecs.com
+2019-09-26 17:51:42,574  INFO [main] log4j:26 - Actual info@atmecs.com
+2019-09-26 17:51:42,574  INFO [main] log4j:26 - Element verified
+2019-09-26 17:51:50,272  INFO [main] log4j:26 - Expected Sitemap
+2019-09-26 17:51:50,918  INFO [main] log4j:26 - Actual Sitemap
+2019-09-26 17:51:50,918  INFO [main] log4j:26 - Expected Services
+2019-09-26 17:51:51,621  INFO [main] log4j:26 - Actual Services
+2019-09-26 17:51:51,621  INFO [main] log4j:26 - Expected Careers
+2019-09-26 17:51:52,027  INFO [main] log4j:26 - Actual Careers
+2019-09-26 17:51:52,027  INFO [main] log4j:26 - Expected Contact Us
+2019-09-26 17:51:52,933  INFO [main] log4j:26 - Actual Contact Us
+2019-09-26 17:51:52,933  INFO [main] log4j:26 - Title verified
+2019-09-26 17:51:52,933  INFO [main] log4j:26 - Expected Home
+2019-09-26 17:51:53,340  INFO [main] log4j:26 - Actual Home
+2019-09-26 17:51:53,340  INFO [main] log4j:26 - Expected About Us
+2019-09-26 17:51:53,747  INFO [main] log4j:26 - Actual About Us
+2019-09-26 17:51:53,747  INFO [main] log4j:26 - Expected Services
+2019-09-26 17:51:54,106  INFO [main] log4j:26 - Actual Services
+2019-09-26 17:51:54,118  INFO [main] log4j:26 - Expected Partners
+2019-09-26 17:51:54,448  INFO [main] log4j:26 - Actual Partners
+2019-09-26 17:51:54,448  INFO [main] log4j:26 - Expected Case Studies old
+2019-09-26 17:51:54,807  INFO [main] log4j:26 - Actual Case Studies old
+2019-09-26 17:51:54,807  INFO [main] log4j:26 - Expected News
+2019-09-26 17:51:55,213  INFO [main] log4j:26 - Actual News
+2019-09-26 17:51:55,213  INFO [main] log4j:26 - Expected Careers
+2019-09-26 17:51:55,669  INFO [main] log4j:26 - Actual Careers
+2019-09-26 17:51:55,670  INFO [main] log4j:26 - Expected Contact Us
+2019-09-26 17:51:56,058  INFO [main] log4j:26 - Actual Contact Us
+2019-09-26 17:51:56,059  INFO [main] log4j:26 - Sitemap elements verified
+2019-09-26 17:51:56,059  INFO [main] log4j:26 - Expected Artificial Intelligence / Machine Learning
+2019-09-26 17:51:56,392  INFO [main] log4j:26 - Actual Artificial Intelligence / Machine Learning
+2019-09-26 17:51:56,392  INFO [main] log4j:26 - Expected Augmented Reality / Virtual Reality
+2019-09-26 17:51:57,640  INFO [main] log4j:26 - Actual Augmented Reality / Virtual Reality
+2019-09-26 17:51:57,640  INFO [main] log4j:26 - Expected Quality Engineering
+2019-09-26 17:51:58,146  INFO [main] log4j:26 - Actual Quality Engineering
+2019-09-26 17:51:58,146  INFO [main] log4j:26 - Expected Blockchain
+2019-09-26 17:51:58,521  INFO [main] log4j:26 - Actual Blockchain
+2019-09-26 17:51:58,521  INFO [main] log4j:26 - Expected Robotic Process Automation & ChatBOTs
+2019-09-26 17:51:59,114  INFO [main] log4j:26 - Actual Robotic Process Automation & ChatBOTs
+2019-09-26 17:51:59,114  INFO [main] log4j:26 - Expected Cloud Services
+2019-09-26 17:51:59,599  INFO [main] log4j:26 - Actual Cloud Services
+2019-09-26 17:51:59,599  INFO [main] log4j:26 - Expected Enterprise Analytics
+2019-09-26 17:52:00,654  INFO [main] log4j:26 - Actual Enterprise Analytics
+2019-09-26 17:52:00,667  INFO [main] log4j:26 - Expected Internet of Things
+2019-09-26 17:52:00,997  INFO [main] log4j:26 - Actual Internet of Things
+2019-09-26 17:52:00,997  INFO [main] log4j:26 - Expected Mobile Computing
+2019-09-26 17:52:01,950  INFO [main] log4j:26 - Actual Mobile Computing
+2019-09-26 17:52:01,950  INFO [main] log4j:26 - Expected Product Engineering
+2019-09-26 17:52:02,433  INFO [main] log4j:26 - Actual Product Engineering
+2019-09-26 17:52:02,433  INFO [main] log4j:26 - Services elements verified
+2019-09-26 17:52:02,433  INFO [main] log4j:26 - Expected Automation Engineer
+2019-09-26 17:52:02,792  INFO [main] log4j:26 - Actual Automation Engineer
+2019-09-26 17:52:02,792  INFO [main] log4j:26 - Expected DevOps Engineer
+2019-09-26 17:52:03,198  INFO [main] log4j:26 - Actual DevOps Engineer
+2019-09-26 17:52:03,214  INFO [main] log4j:26 - Expected Senior .NET Engineer
+2019-09-26 17:52:03,556  INFO [main] log4j:26 - Actual Senior .NET Engineer
+2019-09-26 17:52:03,556  INFO [main] log4j:26 - Expected Senior Java/J2EE Engineer
+2019-09-26 17:52:03,986  INFO [main] log4j:26 - Actual Senior Java/J2EE Engineer
+2019-09-26 17:52:03,986  INFO [main] log4j:26 - Element verified
+2019-09-26 17:52:03,987  INFO [main] log4j:26 - Expected US Headquarters
+2019-09-26 17:52:04,417  INFO [main] log4j:26 - Actual US Headquarters
+2019-09-26 17:52:04,418  INFO [main] log4j:26 - Expected US R&D Center
+2019-09-26 17:52:04,784  INFO [main] log4j:26 - Actual US R&D Center
+2019-09-26 17:52:04,785  INFO [main] log4j:26 - Expected India – Hyderabad
+2019-09-26 17:52:05,140  INFO [main] log4j:26 - Actual India – Hyderabad
+2019-09-26 17:52:05,141  INFO [main] log4j:26 - Expected India – Bangalore
+2019-09-26 17:52:05,515  INFO [main] log4j:26 - Actual India – Bangalore
+2019-09-26 17:52:05,515  INFO [main] log4j:26 - Expected India – Chennai
+2019-09-26 17:52:06,560  INFO [main] log4j:26 - Actual India – Chennai
+2019-09-26 17:52:06,572  INFO [main] log4j:26 - Expected info@atmecs.com
+2019-09-26 17:52:06,918  INFO [main] log4j:26 - Actual info@atmecs.com
+2019-09-26 17:52:06,918  INFO [main] log4j:26 - Expected info@atmecs.com
+2019-09-26 17:52:07,230  INFO [main] log4j:26 - Actual info@atmecs.com
+2019-09-26 17:52:07,230  INFO [main] log4j:26 - Element verified
+2019-09-26 17:52:13,612  INFO [main] log4j:26 - Expected Sitemap
+2019-09-26 17:52:13,928  INFO [main] log4j:26 - Actual Sitemap
+2019-09-26 17:52:13,928  INFO [main] log4j:26 - Expected Services
+2019-09-26 17:52:14,272  INFO [main] log4j:26 - Actual Services
+2019-09-26 17:52:14,272  INFO [main] log4j:26 - Expected Careers
+2019-09-26 17:52:14,631  INFO [main] log4j:26 - Actual Careers
+2019-09-26 17:52:14,631  INFO [main] log4j:26 - Expected Contact Us
+2019-09-26 17:52:15,170  INFO [main] log4j:26 - Actual Contact Us
+2019-09-26 17:52:15,170  INFO [main] log4j:26 - Title verified
+2019-09-26 17:52:15,170  INFO [main] log4j:26 - Expected Home
+2019-09-26 17:52:15,498  INFO [main] log4j:26 - Actual Home
+2019-09-26 17:52:15,498  INFO [main] log4j:26 - Expected About Us
+2019-09-26 17:52:15,826  INFO [main] log4j:26 - Actual About Us
+2019-09-26 17:52:15,826  INFO [main] log4j:26 - Expected Services
+2019-09-26 17:52:16,153  INFO [main] log4j:26 - Actual Services
+2019-09-26 17:52:16,153  INFO [main] log4j:26 - Expected Partners
+2019-09-26 17:52:16,543  INFO [main] log4j:26 - Actual Partners
+2019-09-26 17:52:16,543  INFO [main] log4j:26 - Expected Case Studies old
+2019-09-26 17:52:16,871  INFO [main] log4j:26 - Actual Case Studies old
+2019-09-26 17:52:16,871  INFO [main] log4j:26 - Expected News
+2019-09-26 17:52:17,198  INFO [main] log4j:26 - Actual News
+2019-09-26 17:52:17,198  INFO [main] log4j:26 - Expected Careers
+2019-09-26 17:52:17,510  INFO [main] log4j:26 - Actual Careers
+2019-09-26 17:52:17,510  INFO [main] log4j:26 - Expected Contact Us
+2019-09-26 17:52:17,823  INFO [main] log4j:26 - Actual Contact Us
+2019-09-26 17:52:17,823  INFO [main] log4j:26 - Sitemap elements verified
+2019-09-26 17:52:17,823  INFO [main] log4j:26 - Expected Artificial Intelligence / Machine Learning
+2019-09-26 17:52:18,135  INFO [main] log4j:26 - Actual Artificial Intelligence / Machine Learning
+2019-09-26 17:52:18,135  INFO [main] log4j:26 - Expected Augmented Reality / Virtual Reality
+2019-09-26 17:52:18,447  INFO [main] log4j:26 - Actual Augmented Reality / Virtual Reality
+2019-09-26 17:52:18,447  INFO [main] log4j:26 - Expected Quality Engineering
+2019-09-26 17:52:18,759  INFO [main] log4j:26 - Actual Quality Engineering
+2019-09-26 17:52:18,759  INFO [main] log4j:26 - Expected Blockchain
+2019-09-26 17:52:19,150  INFO [main] log4j:26 - Actual Blockchain
+2019-09-26 17:52:19,150  INFO [main] log4j:26 - Expected Robotic Process Automation & ChatBOTs
+2019-09-26 17:52:19,552  INFO [main] log4j:26 - Actual Robotic Process Automation & ChatBOTs
+2019-09-26 17:52:19,552  INFO [main] log4j:26 - Expected Cloud Services
+2019-09-26 17:52:19,786  INFO [main] log4j:26 - Actual Cloud Services
+2019-09-26 17:52:19,786  INFO [main] log4j:26 - Expected Enterprise Analytics
+2019-09-26 17:52:20,036  INFO [main] log4j:26 - Actual Enterprise Analytics
+2019-09-26 17:52:20,036  INFO [main] log4j:26 - Expected Internet of Things
+2019-09-26 17:52:20,380  INFO [main] log4j:26 - Actual Internet of Things
+2019-09-26 17:52:20,381  INFO [main] log4j:26 - Expected Mobile Computing
+2019-09-26 17:52:20,650  INFO [main] log4j:26 - Actual Mobile Computing
+2019-09-26 17:52:20,651  INFO [main] log4j:26 - Expected Product Engineering
+2019-09-26 17:52:20,907  INFO [main] log4j:26 - Actual Product Engineering
+2019-09-26 17:52:20,908  INFO [main] log4j:26 - Services elements verified
+2019-09-26 17:52:20,908  INFO [main] log4j:26 - Expected Automation Engineer
+2019-09-26 17:52:21,158  INFO [main] log4j:26 - Actual Automation Engineer
+2019-09-26 17:52:21,158  INFO [main] log4j:26 - Expected DevOps Engineer
+2019-09-26 17:52:21,423  INFO [main] log4j:26 - Actual DevOps Engineer
+2019-09-26 17:52:21,423  INFO [main] log4j:26 - Expected Senior .NET Engineer
+2019-09-26 17:52:21,687  INFO [main] log4j:26 - Actual Senior .NET Engineer
+2019-09-26 17:52:21,687  INFO [main] log4j:26 - Expected Senior Java/J2EE Engineer
+2019-09-26 17:52:21,937  INFO [main] log4j:26 - Actual Senior Java/J2EE Engineer
+2019-09-26 17:52:21,937  INFO [main] log4j:26 - Element verified
+2019-09-26 17:52:21,937  INFO [main] log4j:26 - Expected US Headquarters
+2019-09-26 17:52:22,234  INFO [main] log4j:26 - Actual US Headquarters
+2019-09-26 17:52:22,234  INFO [main] log4j:26 - Expected US R&D Center
+2019-09-26 17:52:22,488  INFO [main] log4j:26 - Actual US R&D Center
+2019-09-26 17:52:22,488  INFO [main] log4j:26 - Expected India – Hyderabad
+2019-09-26 17:52:22,720  INFO [main] log4j:26 - Actual India – Hyderabad
+2019-09-26 17:52:22,720  INFO [main] log4j:26 - Expected India – Bangalore
+2019-09-26 17:52:22,969  INFO [main] log4j:26 - Actual India – Bangalore
+2019-09-26 17:52:22,969  INFO [main] log4j:26 - Expected India – Chennai
+2019-09-26 17:52:23,266  INFO [main] log4j:26 - Actual India – Chennai
+2019-09-26 17:52:23,266  INFO [main] log4j:26 - Expected info@atmecs.com
+2019-09-26 17:52:23,532  INFO [main] log4j:26 - Actual info@atmecs.com
+2019-09-26 17:52:23,532  INFO [main] log4j:26 - Expected info@atmecs.com
+2019-09-26 17:52:23,794  INFO [main] log4j:26 - Actual info@atmecs.com
+2019-09-26 17:52:23,794  INFO [main] log4j:26 - Element verified
+2019-09-26 17:52:30,246  INFO [main] log4j:26 - Expected Sitemap
+2019-09-26 17:52:30,516  INFO [main] log4j:26 - Actual Sitemap
+2019-09-26 17:52:30,516  INFO [main] log4j:26 - Expected Services
+2019-09-26 17:52:30,813  INFO [main] log4j:26 - Actual Services
+2019-09-26 17:52:30,813  INFO [main] log4j:26 - Expected Careers
+2019-09-26 17:52:31,188  INFO [main] log4j:26 - Actual Careers
+2019-09-26 17:52:31,188  INFO [main] log4j:26 - Expected Contact Us
+2019-09-26 17:52:31,485  INFO [main] log4j:26 - Actual Contact Us
+2019-09-26 17:52:31,485  INFO [main] log4j:26 - Title verified
+2019-09-26 17:52:31,497  INFO [main] log4j:26 - Expected Home
+2019-09-26 17:52:31,765  INFO [main] log4j:26 - Actual Home
+2019-09-26 17:52:31,765  INFO [main] log4j:26 - Expected About Us
+2019-09-26 17:52:32,062  INFO [main] log4j:26 - Actual About Us
+2019-09-26 17:52:32,062  INFO [main] log4j:26 - Expected Services
+2019-09-26 17:52:32,327  INFO [main] log4j:26 - Actual Services
+2019-09-26 17:52:32,327  INFO [main] log4j:26 - Expected Partners
+2019-09-26 17:52:32,609  INFO [main] log4j:26 - Actual Partners
+2019-09-26 17:52:32,609  INFO [main] log4j:26 - Expected Case Studies old
+2019-09-26 17:52:32,822  INFO [main] log4j:26 - Actual Case Studies old
+2019-09-26 17:52:32,822  INFO [main] log4j:26 - Expected News
+2019-09-26 17:52:33,040  INFO [main] log4j:26 - Actual News
+2019-09-26 17:52:33,040  INFO [main] log4j:26 - Expected Careers
+2019-09-26 17:52:33,243  INFO [main] log4j:26 - Actual Careers
+2019-09-26 17:52:33,243  INFO [main] log4j:26 - Expected Contact Us
+2019-09-26 17:52:33,462  INFO [main] log4j:26 - Actual Contact Us
+2019-09-26 17:52:33,462  INFO [main] log4j:26 - Sitemap elements verified
+2019-09-26 17:52:33,462  INFO [main] log4j:26 - Expected Artificial Intelligence / Machine Learning
+2019-09-26 17:52:33,712  INFO [main] log4j:26 - Actual Artificial Intelligence / Machine Learning
+2019-09-26 17:52:33,712  INFO [main] log4j:26 - Expected Augmented Reality / Virtual Reality
+2019-09-26 17:52:33,925  INFO [main] log4j:26 - Actual Augmented Reality / Virtual Reality
+2019-09-26 17:52:33,925  INFO [main] log4j:26 - Expected Quality Engineering
+2019-09-26 17:52:34,175  INFO [main] log4j:26 - Actual Quality Engineering
+2019-09-26 17:52:34,175  INFO [main] log4j:26 - Expected Blockchain
+2019-09-26 17:52:34,394  INFO [main] log4j:26 - Actual Blockchain
+2019-09-26 17:52:34,394  INFO [main] log4j:26 - Expected Robotic Process Automation & ChatBOTs
+2019-09-26 17:52:34,628  INFO [main] log4j:26 - Actual Robotic Process Automation & ChatBOTs
+2019-09-26 17:52:34,628  INFO [main] log4j:26 - Expected Cloud Services
+2019-09-26 17:52:34,863  INFO [main] log4j:26 - Actual Cloud Services
+2019-09-26 17:52:34,863  INFO [main] log4j:26 - Expected Enterprise Analytics
+2019-09-26 17:52:35,128  INFO [main] log4j:26 - Actual Enterprise Analytics
+2019-09-26 17:52:35,128  INFO [main] log4j:26 - Expected Internet of Things
+2019-09-26 17:52:35,362  INFO [main] log4j:26 - Actual Internet of Things
+2019-09-26 17:52:35,362  INFO [main] log4j:26 - Expected Mobile Computing
+2019-09-26 17:52:35,581  INFO [main] log4j:26 - Actual Mobile Computing
+2019-09-26 17:52:35,581  INFO [main] log4j:26 - Expected Product Engineering
+2019-09-26 17:52:35,799  INFO [main] log4j:26 - Actual Product Engineering
+2019-09-26 17:52:35,799  INFO [main] log4j:26 - Services elements verified
+2019-09-26 17:52:35,799  INFO [main] log4j:26 - Expected Automation Engineer
+2019-09-26 17:52:36,034  INFO [main] log4j:26 - Actual Automation Engineer
+2019-09-26 17:52:36,034  INFO [main] log4j:26 - Expected DevOps Engineer
+2019-09-26 17:52:36,267  INFO [main] log4j:26 - Actual DevOps Engineer
+2019-09-26 17:52:36,267  INFO [main] log4j:26 - Expected Senior .NET Engineer
+2019-09-26 17:52:36,502  INFO [main] log4j:26 - Actual Senior .NET Engineer
+2019-09-26 17:52:36,502  INFO [main] log4j:26 - Expected Senior Java/J2EE Engineer
+2019-09-26 17:52:36,736  INFO [main] log4j:26 - Actual Senior Java/J2EE Engineer
+2019-09-26 17:52:36,736  INFO [main] log4j:26 - Element verified
+2019-09-26 17:52:36,736  INFO [main] log4j:26 - Expected US Headquarters
+2019-09-26 17:52:36,970  INFO [main] log4j:26 - Actual US Headquarters
+2019-09-26 17:52:36,970  INFO [main] log4j:26 - Expected US R&D Center
+2019-09-26 17:52:37,220  INFO [main] log4j:26 - Actual US R&D Center
+2019-09-26 17:52:37,220  INFO [main] log4j:26 - Expected India – Hyderabad
+2019-09-26 17:52:37,435  INFO [main] log4j:26 - Actual India – Hyderabad
+2019-09-26 17:52:37,435  INFO [main] log4j:26 - Expected India – Bangalore
+2019-09-26 17:52:37,654  INFO [main] log4j:26 - Actual India – Bangalore
+2019-09-26 17:52:37,654  INFO [main] log4j:26 - Expected India – Chennai
+2019-09-26 17:52:37,873  INFO [main] log4j:26 - Actual India – Chennai
+2019-09-26 17:52:37,873  INFO [main] log4j:26 - Expected info@atmecs.com
+2019-09-26 17:52:38,092  INFO [main] log4j:26 - Actual info@atmecs.com
+2019-09-26 17:52:38,092  INFO [main] log4j:26 - Expected info@atmecs.com
+2019-09-26 17:52:38,310  INFO [main] log4j:26 - Actual info@atmecs.com
+2019-09-26 17:52:38,310  INFO [main] log4j:26 - Element verified
+2019-09-26 17:52:41,771  INFO [main] log4j:26 - Expected Sitemap
+2019-09-26 17:52:41,984  INFO [main] log4j:26 - Actual Sitemap
+2019-09-26 17:52:41,984  INFO [main] log4j:26 - Expected Services
+2019-09-26 17:52:42,203  INFO [main] log4j:26 - Actual Services
+2019-09-26 17:52:42,203  INFO [main] log4j:26 - Expected Careers
+2019-09-26 17:52:42,406  INFO [main] log4j:26 - Actual Careers
+2019-09-26 17:52:42,406  INFO [main] log4j:26 - Expected Contact Us
+2019-09-26 17:52:42,593  INFO [main] log4j:26 - Actual Contact Us
+2019-09-26 17:52:42,593  INFO [main] log4j:26 - Title verified
+2019-09-26 17:52:42,593  INFO [main] log4j:26 - Expected Home
+2019-09-26 17:52:42,796  INFO [main] log4j:26 - Actual Home
+2019-09-26 17:52:42,796  INFO [main] log4j:26 - Expected About Us
+2019-09-26 17:52:42,990  INFO [main] log4j:26 - Actual About Us
+2019-09-26 17:52:42,990  INFO [main] log4j:26 - Expected Services
+2019-09-26 17:52:43,209  INFO [main] log4j:26 - Actual Services
+2019-09-26 17:52:43,209  INFO [main] log4j:26 - Expected Partners
+2019-09-26 17:52:43,412  INFO [main] log4j:26 - Actual Partners
+2019-09-26 17:52:43,412  INFO [main] log4j:26 - Expected Case Studies old
+2019-09-26 17:52:43,606  INFO [main] log4j:26 - Actual Case Studies old
+2019-09-26 17:52:43,606  INFO [main] log4j:26 - Expected News
+2019-09-26 17:52:43,824  INFO [main] log4j:26 - Actual News
+2019-09-26 17:52:43,824  INFO [main] log4j:26 - Expected Careers
+2019-09-26 17:52:44,034  INFO [main] log4j:26 - Actual Careers
+2019-09-26 17:52:44,034  INFO [main] log4j:26 - Expected Contact Us
+2019-09-26 17:52:44,237  INFO [main] log4j:26 - Actual Contact Us
+2019-09-26 17:52:44,237  INFO [main] log4j:26 - Sitemap elements verified
+2019-09-26 17:52:44,237  INFO [main] log4j:26 - Expected Artificial Intelligence / Machine Learning
+2019-09-26 17:52:44,440  INFO [main] log4j:26 - Actual Artificial Intelligence / Machine Learning
+2019-09-26 17:52:44,440  INFO [main] log4j:26 - Expected Augmented Reality / Virtual Reality
+2019-09-26 17:52:44,659  INFO [main] log4j:26 - Actual Augmented Reality / Virtual Reality
+2019-09-26 17:52:44,659  INFO [main] log4j:26 - Expected Quality Engineering
+2019-09-26 17:52:44,846  INFO [main] log4j:26 - Actual Quality Engineering
+2019-09-26 17:52:44,846  INFO [main] log4j:26 - Expected Blockchain
+2019-09-26 17:52:45,056  INFO [main] log4j:26 - Actual Blockchain
+2019-09-26 17:52:45,056  INFO [main] log4j:26 - Expected Robotic Process Automation & ChatBOTs
+2019-09-26 17:52:45,275  INFO [main] log4j:26 - Actual Robotic Process Automation & ChatBOTs
+2019-09-26 17:52:45,275  INFO [main] log4j:26 - Expected Cloud Services
+2019-09-26 17:52:45,572  INFO [main] log4j:26 - Actual Cloud Services
+2019-09-26 17:52:45,572  INFO [main] log4j:26 - Expected Enterprise Analytics
+2019-09-26 17:52:45,822  INFO [main] log4j:26 - Actual Enterprise Analytics
+2019-09-26 17:52:45,822  INFO [main] log4j:26 - Expected Internet of Things
+2019-09-26 17:52:46,041  INFO [main] log4j:26 - Actual Internet of Things
+2019-09-26 17:52:46,041  INFO [main] log4j:26 - Expected Mobile Computing
+2019-09-26 17:52:46,243  INFO [main] log4j:26 - Actual Mobile Computing
+2019-09-26 17:52:46,243  INFO [main] log4j:26 - Expected Product Engineering
+2019-09-26 17:52:46,431  INFO [main] log4j:26 - Actual Product Engineering
+2019-09-26 17:52:46,431  INFO [main] log4j:26 - Services elements verified
+2019-09-26 17:52:46,431  INFO [main] log4j:26 - Expected Automation Engineer
+2019-09-26 17:52:46,634  INFO [main] log4j:26 - Actual Automation Engineer
+2019-09-26 17:52:46,634  INFO [main] log4j:26 - Expected DevOps Engineer
+2019-09-26 17:52:46,837  INFO [main] log4j:26 - Actual DevOps Engineer
+2019-09-26 17:52:46,837  INFO [main] log4j:26 - Expected Senior .NET Engineer
+2019-09-26 17:52:47,040  INFO [main] log4j:26 - Actual Senior .NET Engineer
+2019-09-26 17:52:47,040  INFO [main] log4j:26 - Expected Senior Java/J2EE Engineer
+2019-09-26 17:52:47,259  INFO [main] log4j:26 - Actual Senior Java/J2EE Engineer
+2019-09-26 17:52:47,259  INFO [main] log4j:26 - Element verified
+2019-09-26 17:52:47,266  INFO [main] log4j:26 - Expected US Headquarters
+2019-09-26 17:52:47,454  INFO [main] log4j:26 - Actual US Headquarters
+2019-09-26 17:52:47,454  INFO [main] log4j:26 - Expected US R&D Center
+2019-09-26 17:52:47,657  INFO [main] log4j:26 - Actual US R&D Center
+2019-09-26 17:52:47,657  INFO [main] log4j:26 - Expected India – Hyderabad
+2019-09-26 17:52:47,860  INFO [main] log4j:26 - Actual India – Hyderabad
+2019-09-26 17:52:47,860  INFO [main] log4j:26 - Expected India – Bangalore
+2019-09-26 17:52:48,048  INFO [main] log4j:26 - Actual India – Bangalore
+2019-09-26 17:52:48,048  INFO [main] log4j:26 - Expected India – Chennai
+2019-09-26 17:52:48,235  INFO [main] log4j:26 - Actual India – Chennai
+2019-09-26 17:52:48,235  INFO [main] log4j:26 - Expected info@atmecs.com
+2019-09-26 17:52:48,438  INFO [main] log4j:26 - Actual info@atmecs.com
+2019-09-26 17:52:48,438  INFO [main] log4j:26 - Expected info@atmecs.com
+2019-09-26 17:52:48,634  INFO [main] log4j:26 - Actual info@atmecs.com
+2019-09-26 17:52:48,634  INFO [main] log4j:26 - Element verified
+2019-09-26 19:08:28,561  INFO [main] log4j:26 - Expected Sitemap
+2019-09-26 19:08:29,139  INFO [main] log4j:26 - Actual Sitemap
+2019-09-26 19:08:29,139  INFO [main] log4j:26 - Expected Services
+2019-09-26 19:08:29,420  INFO [main] log4j:26 - Actual Services
+2019-09-26 19:08:29,420  INFO [main] log4j:26 - Expected Careers
+2019-09-26 19:08:29,670  INFO [main] log4j:26 - Actual Careers
+2019-09-26 19:08:29,679  INFO [main] log4j:26 - Expected Contact Us
+2019-09-26 19:08:29,914  INFO [main] log4j:26 - Actual Contact Us
+2019-09-26 19:08:29,914  INFO [main] log4j:26 - Title verified
+2019-09-26 19:08:29,914  INFO [main] log4j:26 - Expected Home
+2019-09-26 19:08:30,162  INFO [main] log4j:26 - Actual Home
+2019-09-26 19:08:30,163  INFO [main] log4j:26 - Expected About Us
+2019-09-26 19:08:30,399  INFO [main] log4j:26 - Actual About Us
+2019-09-26 19:08:30,400  INFO [main] log4j:26 - Expected Services
+2019-09-26 19:08:30,628  INFO [main] log4j:26 - Actual Services
+2019-09-26 19:08:30,628  INFO [main] log4j:26 - Expected Partners
+2019-09-26 19:08:30,862  INFO [main] log4j:26 - Actual Partners
+2019-09-26 19:08:30,862  INFO [main] log4j:26 - Expected Case Studies old
+2019-09-26 19:08:31,096  INFO [main] log4j:26 - Actual Case Studies old
+2019-09-26 19:08:31,097  INFO [main] log4j:26 - Expected News
+2019-09-26 19:08:31,327  INFO [main] log4j:26 - Actual News
+2019-09-26 19:08:31,327  INFO [main] log4j:26 - Expected Careers
+2019-09-26 19:08:31,562  INFO [main] log4j:26 - Actual Careers
+2019-09-26 19:08:31,562  INFO [main] log4j:26 - Expected Contact Us
+2019-09-26 19:08:31,796  INFO [main] log4j:26 - Actual Contact Us
+2019-09-26 19:08:31,796  INFO [main] log4j:26 - Sitemap elements verified
+2019-09-26 19:08:31,796  INFO [main] log4j:26 - Expected Artificial Intelligence / Machine Learning
+2019-09-26 19:08:32,046  INFO [main] log4j:26 - Actual Artificial Intelligence / Machine Learning
+2019-09-26 19:08:32,055  INFO [main] log4j:26 - Expected Augmented Reality / Virtual Reality
+2019-09-26 19:08:32,274  INFO [main] log4j:26 - Actual Augmented Reality / Virtual Reality
+2019-09-26 19:08:32,274  INFO [main] log4j:26 - Expected Quality Engineering
+2019-09-26 19:08:32,509  INFO [main] log4j:26 - Actual Quality Engineering
+2019-09-26 19:08:32,509  INFO [main] log4j:26 - Expected Blockchain
+2019-09-26 19:08:32,743  INFO [main] log4j:26 - Actual Blockchain
+2019-09-26 19:08:32,743  INFO [main] log4j:26 - Expected Robotic Process Automation & ChatBOTs
+2019-09-26 19:08:32,978  INFO [main] log4j:26 - Actual Robotic Process Automation & ChatBOTs
+2019-09-26 19:08:32,978  INFO [main] log4j:26 - Expected Cloud Services
+2019-09-26 19:08:33,210  INFO [main] log4j:26 - Actual Cloud Services
+2019-09-26 19:08:33,213  INFO [main] log4j:26 - Expected Enterprise Analytics
+2019-09-26 19:08:33,433  INFO [main] log4j:26 - Actual Enterprise Analytics
+2019-09-26 19:08:33,433  INFO [main] log4j:26 - Expected Internet of Things
+2019-09-26 19:08:33,668  INFO [main] log4j:26 - Actual Internet of Things
+2019-09-26 19:08:33,668  INFO [main] log4j:26 - Expected Mobile Computing
+2019-09-26 19:08:33,918  INFO [main] log4j:26 - Actual Mobile Computing
+2019-09-26 19:08:33,918  INFO [main] log4j:26 - Expected Product Engineering
+2019-09-26 19:08:34,159  INFO [main] log4j:26 - Actual Product Engineering
+2019-09-26 19:08:34,160  INFO [main] log4j:26 - Services elements verified
+2019-09-26 19:08:34,160  INFO [main] log4j:26 - Expected Automation Engineer
+2019-09-26 19:08:34,368  INFO [main] log4j:26 - Actual Automation Engineer
+2019-09-26 19:08:34,377  INFO [main] log4j:26 - Expected DevOps Engineer
+2019-09-26 19:08:34,598  INFO [main] log4j:26 - Actual DevOps Engineer
+2019-09-26 19:08:34,598  INFO [main] log4j:26 - Expected Senior .NET Engineer
+2019-09-26 19:08:34,816  INFO [main] log4j:26 - Actual Senior .NET Engineer
+2019-09-26 19:08:34,816  INFO [main] log4j:26 - Expected Senior Java/J2EE Engineer
+2019-09-26 19:08:35,051  INFO [main] log4j:26 - Actual Senior Java/J2EE Engineer
+2019-09-26 19:08:35,051  INFO [main] log4j:26 - Element verified
+2019-09-26 19:08:35,051  INFO [main] log4j:26 - Expected US Headquarters
+2019-09-26 19:08:35,285  INFO [main] log4j:26 - Actual US Headquarters
+2019-09-26 19:08:35,285  INFO [main] log4j:26 - Expected US R&D Center
+2019-09-26 19:08:35,520  INFO [main] log4j:26 - Actual US R&D Center
+2019-09-26 19:08:35,528  INFO [main] log4j:26 - Expected India – Hyderabad
+2019-09-26 19:08:35,748  INFO [main] log4j:26 - Actual India – Hyderabad
+2019-09-26 19:08:35,748  INFO [main] log4j:26 - Expected India – Bangalore
+2019-09-26 19:08:35,982  INFO [main] log4j:26 - Actual India – Bangalore
+2019-09-26 19:08:35,982  INFO [main] log4j:26 - Expected India – Chennai
+2019-09-26 19:08:36,217  INFO [main] log4j:26 - Actual India – Chennai
+2019-09-26 19:08:36,218  INFO [main] log4j:26 - Expected info@atmecs.com
+2019-09-26 19:08:36,437  INFO [main] log4j:26 - Actual info@atmecs.com
+2019-09-26 19:08:36,437  INFO [main] log4j:26 - Expected info@atmecs.com
+2019-09-26 19:08:36,656  INFO [main] log4j:26 - Actual info@atmecs.com
+2019-09-26 19:08:36,656  INFO [main] log4j:26 - Element verified
+2019-09-26 19:08:37,690  INFO [main] log4j:26 - Expected Sitemap
+2019-09-26 19:08:37,915  INFO [main] log4j:26 - Actual Sitemap
+2019-09-26 19:08:37,915  INFO [main] log4j:26 - Expected Services
+2019-09-26 19:08:38,140  INFO [main] log4j:26 - Actual Services
+2019-09-26 19:08:38,140  INFO [main] log4j:26 - Expected Careers
+2019-09-26 19:08:38,359  INFO [main] log4j:26 - Actual Careers
+2019-09-26 19:08:38,359  INFO [main] log4j:26 - Expected Contact Us
+2019-09-26 19:08:38,577  INFO [main] log4j:26 - Actual Contact Us
+2019-09-26 19:08:38,577  INFO [main] log4j:26 - Title verified
+2019-09-26 19:08:38,577  INFO [main] log4j:26 - Expected Home
+2019-09-26 19:08:38,812  INFO [main] log4j:26 - Actual Home
+2019-09-26 19:08:38,819  INFO [main] log4j:26 - Expected About Us
+2019-09-26 19:08:39,024  INFO [main] log4j:26 - Actual About Us
+2019-09-26 19:08:39,024  INFO [main] log4j:26 - Expected Services
+2019-09-26 19:08:39,242  INFO [main] log4j:26 - Actual Services
+2019-09-26 19:08:39,242  INFO [main] log4j:26 - Expected Partners

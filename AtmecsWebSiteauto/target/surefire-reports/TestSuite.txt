@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 24.949 sec <<< FAILURE! - in TestSuite
+setup(com.openmrs.testscript.Login)  Time elapsed: 15.702 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.openmrs.utils.UtilityFiles.enterText(UtilityFiles.java:50)
+	at com.openmrs.pages.OPRegister.OPEntry(OPRegister.java:18)
+	at com.openmrs.testscript.Login.setup(Login.java:33)
+
